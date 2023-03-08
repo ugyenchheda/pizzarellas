@@ -1,0 +1,2253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cooks\n"
+"POT-Creation-Date: 2014-10-10 12:31+0530\n"
+"PO-Revision-Date: 2014-10-10 12:31+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:13
+msgid "Error 404 - Page Not Found"
+msgstr "Erreur 404 - Page introuvable"
+
+#: ../404.php:18
+msgid " <h3>Archives by Subject:</h3>"
+msgstr " <h3> Archives par Objet: </ h3>"
+
+#: ../404.php:24
+msgid " <h3>Archives by Month::</h3>"
+msgstr "<h3> Archives par mois :: </ h3>"
+
+#: ../BFI_Thumb.php:117
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+"Le serveur n'a pas ImageMagick ou GD installés et / ou activé! N'importe "
+"lequel de ces bibliothèques sont nécessaires pour WordPress pour être en "
+"mesure de redimensionner les images. S'il vous plaît contactez "
+"l'administrateur du serveur pour activer avant de continuer."
+
+#: ../BFI_Thumb.php:232
+msgid "Image rotate failed."
+msgstr "Rotation de l'image a échoué."
+
+#: ../BFI_Thumb.php:254
+msgid "Image opacity change failed."
+msgstr "Photo changement d'opacité a échoué."
+
+#: ../BFI_Thumb.php:332
+msgid "Image color change failed."
+msgstr "Photo changement de couleur a échoué."
+
+#: ../BFI_Thumb.php:348
+msgid "Image grayscale failed."
+msgstr "Image en niveaux de gris a échoué."
+
+#: ../BFI_Thumb.php:364
+msgid "Image negate failed."
+msgstr "Photo négation échoué."
+
+#: ../comments.php:9
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Cet article est protégé par mot de passe. Entrez le mot de passe pour "
+"afficher les commentaires."
+
+#: ../comments.php:34 ../comments.php:58
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:61
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:74
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: ../comments.php:83
+msgid "Name"
+msgstr "nom"
+
+#: ../comments.php:85
+msgid "Email"
+msgstr "email"
+
+#: ../comments.php:86
+msgid "Website"
+msgstr "site Web"
+
+#: ../functions.php:49
+msgid "Primary Navigation"
+msgstr "Navigation principale"
+
+#: ../functions.php:50
+msgid "Footer Navigation"
+msgstr "footer Navigation"
+
+#: ../functions.php:92 ../lib/plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr "Installez requis Plugins"
+
+#: ../functions.php:93 ../lib/plugin-activation.php:162
+msgid "Install Plugins"
+msgstr "installer des plugins"
+
+#: ../functions.php:94 ../lib/plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installation Plugin:% s"
+
+#: ../functions.php:95
+msgid "Something went wrong with the plugin API."
+msgstr "Quelque chose n'allait pas avec l'API de plugin."
+
+#: ../functions.php:107 ../lib/plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr "Retour à requis Plugins Installer"
+
+#: ../functions.php:108 ../lib/plugin-activation.php:177
+#: ../lib/plugin-activation.php:1945
+msgid "Plugin activated successfully."
+msgstr "Plugin activé avec succès."
+
+#: ../functions.php:109
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Tous les plugins installés et activés avec succès. % s"
+
+#: ../functions.php:214
+msgid "View your shopping cart"
+msgstr "Voir votre panier"
+
+#: ../home.php:26 ../index.php:26
+msgid "No posts to display"
+msgstr "Pas de messages à afficher"
+
+#: ../home.php:27 ../index.php:27
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier poste? <a href=\"%s\"> Lancez-vous ici </a>."
+
+#: ../home.php:30 ../index.php:30 ../search.php:24
+msgid "Nothing Found"
+msgstr "rien trouvé"
+
+#: ../home.php:31 ../index.php:31
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"Excuses, mais aucun résultat n'a été trouvé. Peut-être la recherche aidera à "
+"trouver un poste lié."
+
+#: ../lib/functions/common.php:157
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Tag Archives:% s"
+
+#: ../lib/functions/common.php:162
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Archives de l'auteur:% s"
+
+#: ../lib/functions/common.php:167
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Archives de la catégorie:% s"
+
+#: ../lib/functions/common.php:176 ../search.php:9
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultats de la recherche pour:% s"
+
+#: ../lib/functions/common.php:178
+msgid "Error 404 - Not Found"
+msgstr "Erreur 404 - Not Found"
+
+#: ../lib/functions/common.php:182
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Daily Archives:% s"
+
+#: ../lib/functions/common.php:187
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles:% s"
+
+#: ../lib/functions/common.php:190
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archives annuelles:% s"
+
+#: ../lib/functions/common.php:198
+msgid "Shop"
+msgstr "boutique"
+
+#: ../lib/functions/common.php:205
+msgid "Blog Archives"
+msgstr "Archives du blog"
+
+#: ../lib/functions/common.php:271
+msgid " Footer Column "
+msgstr "Pied de page Colonne"
+
+#: ../lib/functions/common.php:273
+msgid ""
+"Wesce sit amet porttitor leo. Cum sociis natoque penatibus et magnis dis "
+"parturient montes, nascetur ridiculus mus. Quisque interdum, nulla sit amet "
+"varius dignissim Vestibulum pretium risus"
+msgstr ""
+"Wesce sit amet porttitor leo. Cum sociis natoque penatibus et magnis dis "
+"parturiente montes, nascetur ridiculus mus. Interdum quisque, nulla sit amet "
+"varius dignissim Vestibulum pretium risus"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:14
+msgid "Add New Post "
+msgstr "Ajouter un nouveau message"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:15
+#: ../lib/functions/custom_posts/kaya_slider.php:7
+#: ../lib/functions/custom_posts/kaya_slider.php:8
+msgid "Add New Post"
+msgstr "Ajouter un nouveau message"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:16
+#: ../lib/functions/custom_posts/kaya_slider.php:9
+msgid "Edit Post"
+msgstr "Modifier le message"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:17
+msgid "New Post Item "
+msgstr "Nouveau message Point"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:18
+msgid "View Post Item "
+msgstr "Voir le message de l'article"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:19
+msgid "Search "
+msgstr "recherche"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:19
+msgid " Items"
+msgstr "articles"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:20
+#: ../lib/functions/custom_posts/kaya_slider.php:13
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:12
+msgid "Nothing found"
+msgstr "rien trouvé"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:21
+msgid "not_found_in_trash"
+msgstr "not_found_in_trash"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:55
+#: ../lib/functions/custom_posts/kaya_slider.php:69
+msgid "Category"
+msgstr "catégorie"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:56
+#: ../lib/functions/custom_posts/kaya_slider.php:70
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:69
+msgid "Post Image"
+msgstr "Message Image"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:5
+#: ../lib/functions/custom_posts/kaya_slider.php:6
+msgid "Kaya Slider"
+msgstr "Kaya curseur"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:10
+msgid "New Slider Post Item"
+msgstr "Nouveau curseur de la poste"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:11
+msgid "View slider Item"
+msgstr "Voir curseur article"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:12
+msgid "Search Slider Items"
+msgstr "Rechercher Curseur Articles"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:14
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:13
+msgid "Nothing found in Trash"
+msgstr "Rien trouvé dans la corbeille"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:48
+#: ../lib/functions/custom_posts/kaya_slider.php:49
+#: ../lib/functions/custom_posts/kaya_slider.php:58
+msgid "Slider Categories"
+msgstr "curseur Catégories"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:50
+msgid "Search Slider Categories"
+msgstr "Rechercher Curseur Catégories"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:51
+msgid "All Slider Categories"
+msgstr "Toutes les catégories coulissants"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:52
+msgid "Parent Slider Category"
+msgstr "Parent curseur Catégorie"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:53
+msgid "Parent Slider Category:"
+msgstr "Parent curseur Catégorie:"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:54
+msgid "Edit Slider Category"
+msgstr "Modifier curseur Catégorie"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:55
+msgid "Update Slider Category"
+msgstr "Mise à jour curseur Catégorie"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:56
+msgid "Add New Slider Category"
+msgstr "Ajouter un nouveau curseur Catégorie"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:57
+msgid "New Slider Category"
+msgstr "Nouveau curseur Catégorie"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:116
+msgid "Add Slide Image - Size 1920x1080 (px) "
+msgstr "Ajouter diapo image - Taille 1920x1080 (px)"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:4
+msgid "Tab Items"
+msgstr "Tab Articles"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:5
+msgid "Toggle Tabs"
+msgstr "Basculer onglets"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:6
+msgid "Add New Tab Post"
+msgstr "Ajouter un nouvel onglet Poster"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:7
+msgid "Add New Tabs "
+msgstr "Ajouter de nouveaux onglets"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:8
+msgid "Edit Tabs"
+msgstr "Modifier les onglets"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:9
+msgid "New Tabs"
+msgstr "nouveaux onglets"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:10
+msgid "View Tabs Item"
+msgstr "Voir les onglets Point"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:11
+msgid "Search Tabs"
+msgstr "onglets de recherche"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:47
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:57
+msgid "Tabs Categories"
+msgstr "tabs Catégories"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:48
+msgid "Toggle Tabs / Accordion Categories"
+msgstr "Basculer Tabs / Accordéon Catégories"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:49
+msgid "Search Tabs Categories"
+msgstr "Basculer Tabs / Accordéon Catégories"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:50
+msgid "All Tabs Categories"
+msgstr "Tous les onglets Catégories"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:51
+msgid "Parent Tabs Category"
+msgstr "Parent onglets Catégorie"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:52
+msgid "Parent Tabs Category:"
+msgstr "Parent onglets Catégorie:"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:53
+msgid "Edit Tabs Category"
+msgstr "Modifier les onglets Catégorie"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:54
+msgid "Update Tabs Category"
+msgstr "Mise à jour onglets Catégorie"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:55
+msgid "Add New Tabs Category"
+msgstr "Ajouter de nouveaux onglets Catégorie"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:56
+msgid "New Tabs Category"
+msgstr "Nouveau onglets Catégorie"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:68
+msgid "Toggle Tabs Category"
+msgstr "Basculer onglets Catégorie"
+
+#: ../lib/functions/kaya_comments.php:19
+#, php-format
+msgid "%s <span class=\"says\"></span>"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: ../lib/functions/kaya_comments.php:23
+#: ../lib/functions/kaya_comments.php:124
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:23 ../lib/functions/kaya_comments.php:54
+#: ../lib/functions/kaya_comments.php:124
+#: ../lib/functions/kaya_comments.php:158
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: ../lib/functions/kaya_comments.php:28
+#: ../lib/functions/kaya_comments.php:110
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: ../lib/functions/kaya_comments.php:38
+msgid "Reply <span>&rarr;</span>"
+msgstr "Répondre <span> & rarr; </ span>"
+
+#: ../lib/functions/kaya_comments.php:54
+#: ../lib/functions/kaya_comments.php:158
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../lib/functions/kaya_comments.php:75
+msgid "Posted In"
+msgstr "Posté dans"
+
+#: ../lib/functions/kaya_comments.php:76
+msgid "By "
+msgstr "par"
+
+#: ../lib/functions/kaya_comments.php:77
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: ../lib/functions/kaya_comments.php:77
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: ../lib/functions/kaya_comments.php:77
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: ../lib/functions/kaya_comments.php:78
+#: ../lib/meta-box/inc/fields/file-advanced.php:101
+#: ../lib/meta-box/inc/fields/file.php:138
+#: ../lib/meta-box/inc/fields/image-advanced.php:107
+#: ../lib/meta-box/inc/fields/image.php:138 ../loop-page.php:93
+#: ../loop-portfolio.php:94
+msgid "Edit"
+msgstr "Modifier"
+
+#: ../lib/functions/kaya_comments.php:104
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:180
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:184
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:188
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:45
+msgid "Theme #1"
+msgstr "Thème n ° 1"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:46
+msgid "Theme #2"
+msgstr "Thème n ° 2"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:47
+msgid "Theme #3"
+msgstr "Thème n ° 3"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:48
+msgid "Theme #4"
+msgstr "Thème n ° 4"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:49
+msgid "Theme #5"
+msgstr "Thème n ° 5"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:71
+msgid "jQuery Lightbox For Native Galleries"
+msgstr "jQuery Lightbox Pour Galeries autochtones"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:71
+msgid "jQuery Lightbox"
+msgstr "jQuery Lightbox"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:119
+msgid "jQuery Lightbox For Native Galleries Settings"
+msgstr "jQuery Lightbox pour les galeries autochtones Paramètres"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:126
+msgid ""
+"Sorry if you were expecting more, but this is all there is at the moment. "
+"Nothing else to configure really anyway. :)"
+msgstr ""
+"Désolé si vous attendiez plus, mais c'est tout ce qu'il est à l'heure "
+"actuelle. Rien d'autre à configurer vraiment de toute façon. :)"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:130
+msgid "Theme"
+msgstr "thème"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:146
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: ../lib/includes/kaya-sidebar-generator.php:175
+msgid "Sidebar Generator"
+msgstr "sidebar Générateur"
+
+#: ../lib/includes/kaya-sidebar-generator.php:225
+msgid "No Sidebars defined"
+msgstr "Pas de barres latérales définies"
+
+#: ../lib/includes/kaya-sidebar-generator.php:232
+msgid "+ Add New Sidebar"
+msgstr "+ Ajouter une nouvelle barre latérale"
+
+#: ../lib/includes/kaya-sidebar-generator.php:282
+msgid ""
+"Please select the sidebar you would like to display on this page. "
+"<strong>Note:</strong> You must first create the sidebar under Appearance > "
+"Sidebars."
+msgstr ""
+"S'il vous plaît sélectionner la barre latérale, vous souhaitez afficher sur "
+"cette page. <strong> Note: </ strong> Vous devez d'abord créer la barre "
+"latérale sous Apparence> Les encadrés."
+
+#: ../lib/includes/kaya-sidebar-generator.php:292
+msgid "WP Default Sidebar"
+msgstr "WP défaut Sidebar"
+
+#: ../lib/includes/kaya-sidebar-generator.php:307
+msgid "Sidebar"
+msgstr "sidebar"
+
+#: ../lib/includes/siteorigen_panel_row_styles.php:5
+msgid "Conatiner row Style-1"
+msgstr "Conatiner ligne Style-1"
+
+#: ../lib/includes/siteorigen_panel_row_styles.php:11
+msgid "Conatiner row Style-2"
+msgstr "Conatiner ligne Style-2"
+
+#: ../lib/includes/siteorigen_panel_row_styles.php:16
+msgid "Conatiner row Style-3"
+msgstr "Conatiner ligne Style-3"
+
+#: ../lib/includes/siteorigen_panel_row_styles.php:21
+msgid "Conatiner row Style-4"
+msgstr "Conatiner ligne Style-4"
+
+#: ../lib/includes/siteorigen_panel_row_styles.php:26
+msgid "Conatiner row Style-5"
+msgstr "Conatiner ligne Style-5"
+
+#: ../lib/includes/theme_customization.php:86
+#: ../lib/includes/theme_customization.php:90
+#: ../lib/includes/theme_customization.php:93
+#: ../lib/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr "supprimer"
+
+#: ../lib/includes/theme_customization.php:95
+msgid "Add More"
+msgstr "Ajouter Plus"
+
+#: ../lib/includes/theme_customization.php:108
+msgid "Layout Options"
+msgstr "options de mise en"
+
+#: ../lib/includes/theme_customization.php:120
+msgid "layout Mode"
+msgstr "mode de mise en page"
+
+#: ../lib/includes/theme_customization.php:125
+msgid "Fluid"
+msgstr "fluide"
+
+#: ../lib/includes/theme_customization.php:126 ../lib/meta-boxes.php:143
+msgid "Boxed"
+msgstr "Boxed"
+
+#: ../lib/includes/theme_customization.php:137
+msgid "Change Fullscreen Background Defualt Image"
+msgstr "Changer de fond en plein écran defualt image"
+
+#: ../lib/includes/theme_customization.php:148
+#: ../lib/includes/theme_customization.php:679
+#: ../lib/includes/theme_customization.php:741
+#: ../lib/includes/theme_customization.php:1399 ../lib/meta-boxes.php:350
+msgid "Background Repeat"
+msgstr "Répétez fond"
+
+#: ../lib/includes/theme_customization.php:153
+#: ../lib/includes/theme_customization.php:686
+#: ../lib/includes/theme_customization.php:748
+#: ../lib/includes/theme_customization.php:1406 ../lib/meta-boxes.php:354
+msgid "Repeat"
+msgstr "Répétez"
+
+#: ../lib/includes/theme_customization.php:154
+#: ../lib/includes/theme_customization.php:685
+#: ../lib/includes/theme_customization.php:747
+#: ../lib/includes/theme_customization.php:1405 ../lib/meta-boxes.php:355
+msgid "No Repeat"
+msgstr "Pas de répétition"
+
+#: ../lib/includes/theme_customization.php:164
+msgid "Front Page Container Background"
+msgstr "Contexte Front Page Conteneurs"
+
+#: ../lib/includes/theme_customization.php:169
+#: ../lib/includes/theme_customization.php:185
+msgid "On"
+msgstr "sur"
+
+#: ../lib/includes/theme_customization.php:170
+#: ../lib/includes/theme_customization.php:186
+msgid "Off"
+msgstr "de"
+
+#: ../lib/includes/theme_customization.php:180
+msgid "Responsive Mode"
+msgstr "mode Responsive"
+
+#: ../lib/includes/theme_customization.php:199
+msgid "Header Section"
+msgstr "tête de section"
+
+#: ../lib/includes/theme_customization.php:208
+msgid "Choose Logo Type"
+msgstr "Choisissez Logo Type"
+
+#: ../lib/includes/theme_customization.php:212
+#: ../lib/includes/theme_customization.php:239
+msgid "Text Logo"
+msgstr "Logo du texte"
+
+#: ../lib/includes/theme_customization.php:213
+msgid "Image Logo"
+msgstr "Photo Logo"
+
+#: ../lib/includes/theme_customization.php:226
+msgid "Upload Logo Image"
+msgstr "Télécharger Image de logo"
+
+#: ../lib/includes/theme_customization.php:252
+msgid "Logo Font Size ( px )"
+msgstr "Taille de la police Logo (px)"
+
+#: ../lib/includes/theme_customization.php:265
+msgid "Logo Font Color"
+msgstr "Logo Couleur de police"
+
+#: ../lib/includes/theme_customization.php:279
+msgid "Enter Google font for Logo"
+msgstr "Entrez police Google pour Logo"
+
+#: ../lib/includes/theme_customization.php:293
+msgid "Logo Margin Bottom ( px )"
+msgstr "Logo marge inférieure (px)"
+
+#: ../lib/includes/theme_customization.php:304
+msgid "Logo Description"
+msgstr "logo Description"
+
+#: ../lib/includes/theme_customization.php:314
+msgid ""
+"<strong style=\"font-size:16px; letter-spacing: 2px;\"> Restaurant WordPress "
+"Theme</strong>"
+msgstr ""
+
+#: ../lib/includes/theme_customization.php:324
+msgid "Logo Description Color"
+msgstr "Logo Description Couleur"
+
+#: ../lib/includes/theme_customization.php:341
+msgid "Menu Section"
+msgstr "Menu Section"
+
+#: ../lib/includes/theme_customization.php:350
+msgid "Menu Links Background Color"
+msgstr "Liens du menu Couleur de fond"
+
+#: ../lib/includes/theme_customization.php:356
+msgid "Menu Links Border Color"
+msgstr "Liens du menu Couleur de la bordure"
+
+#: ../lib/includes/theme_customization.php:364
+msgid "Menu Links Color"
+msgstr "Menu Liens Couleur"
+
+#: ../lib/includes/theme_customization.php:370
+msgid "Menu Links Icon Color"
+msgstr "Liens du menu Icône couleur"
+
+#: ../lib/includes/theme_customization.php:375
+msgid "Menu Links Hover BG color"
+msgstr "Liens du menu couleur Hover BG"
+
+#: ../lib/includes/theme_customization.php:381
+msgid "Menu  Hover BG Links color"
+msgstr "Menu Hover BG Liens couleur"
+
+#: ../lib/includes/theme_customization.php:387
+msgid "Menu Active BG Color"
+msgstr "Menu active BG couleur"
+
+#: ../lib/includes/theme_customization.php:394
+msgid "Menu Active BG Links Color"
+msgstr "Menu active BG Liens Couleur"
+
+#: ../lib/includes/theme_customization.php:399
+msgid "Child Menu Settings"
+msgstr "Réglages du menu enfant"
+
+#: ../lib/includes/theme_customization.php:408
+#: ../lib/includes/theme_customization.php:552
+#: ../lib/includes/theme_customization.php:696
+#: ../lib/includes/theme_customization.php:754
+msgid "Background Color"
+msgstr "Couleur de fond"
+
+#: ../lib/includes/theme_customization.php:414
+msgid "Bottom Border Color"
+msgstr "Couleur de fond Border"
+
+#: ../lib/includes/theme_customization.php:420
+msgid "Links Color"
+msgstr "liens Couleur"
+
+#: ../lib/includes/theme_customization.php:426
+msgid "Hover Background Color"
+msgstr "Survolez la couleur de fond"
+
+#: ../lib/includes/theme_customization.php:432
+msgid "Links Hover Color"
+msgstr "Liens Hover couleur"
+
+#: ../lib/includes/theme_customization.php:438
+msgid "Link Active BG Color"
+msgstr "Lien actif BG couleur"
+
+#: ../lib/includes/theme_customization.php:444
+msgid "Link Active Color"
+msgstr "Active Link couleur"
+
+#: ../lib/includes/theme_customization.php:487
+msgid "Accent Colors"
+msgstr "accent Couleurs"
+
+#: ../lib/includes/theme_customization.php:498
+msgid "Accent BG Color"
+msgstr "Accent BG couleur"
+
+#: ../lib/includes/theme_customization.php:505
+msgid "Text Color for Accent BG Color"
+msgstr "Couleur du texte pour Accent BG couleur"
+
+#: ../lib/includes/theme_customization.php:542
+msgid "Page Titlebar Settings"
+msgstr "Page Paramètres de la barre de titre"
+
+#: ../lib/includes/theme_customization.php:560
+#: ../lib/includes/theme_customization.php:708
+#: ../lib/includes/theme_customization.php:761
+#: ../lib/includes/theme_customization.php:791
+#: ../lib/includes/theme_customization.php:1020
+msgid "Title Color"
+msgstr "Couleur du titre"
+
+#: ../lib/includes/theme_customization.php:644
+msgid "Page Color Settings"
+msgstr "Page Paramètres de couleur"
+
+#: ../lib/includes/theme_customization.php:654
+msgid "Page Title Bar Color Section"
+msgstr "Section Titre de la page couleur de la barre"
+
+#: ../lib/includes/theme_customization.php:667
+#: ../lib/includes/theme_customization.php:729
+msgid "Upload Transparent BG Image"
+msgstr "Téléchargez Transparent BG image"
+
+#: ../lib/includes/theme_customization.php:716
+msgid "Page Middle Content Color Section"
+msgstr "Page Moyen Section de couleur contenu"
+
+#: ../lib/includes/theme_customization.php:767
+#: ../lib/includes/theme_customization.php:798
+#: ../lib/includes/theme_customization.php:1426
+msgid "Content Color"
+msgstr "Couleur contenu"
+
+#: ../lib/includes/theme_customization.php:773
+#: ../lib/includes/theme_customization.php:805
+msgid "Link Color"
+msgstr "Couleur des liens"
+
+#: ../lib/includes/theme_customization.php:779
+#: ../lib/includes/theme_customization.php:812
+msgid "Link Hover Color"
+msgstr "Lien Hover couleur"
+
+#: ../lib/includes/theme_customization.php:785
+msgid "Page Sidebar Color Section"
+msgstr "Section Page Sidebar couleur"
+
+#: ../lib/includes/theme_customization.php:870
+msgid "Foodmenu Slug Name"
+msgstr "Nom Foodmenu Slug"
+
+#: ../lib/includes/theme_customization.php:880
+msgid ""
+"Note: Please make sure that the permalinks to be updated by navigating to "
+"\"Settings > Permalinks\" select post and save changes to avoid 404 error "
+"page."
+msgstr ""
+
+#: ../lib/includes/theme_customization.php:894
+msgid "Related Post Thumbnail Height"
+msgstr "Related Post Thumbnail Hauteur"
+
+#: ../lib/includes/theme_customization.php:903
+msgid "Related Post Title"
+msgstr "Related Post titre"
+
+#: ../lib/includes/theme_customization.php:911
+msgid "Foodmenu Category Settings"
+msgstr "Foodmenu Catégorie Paramètres"
+
+#: ../lib/includes/theme_customization.php:919
+msgid "Note: Use this section when you use \"Foodmenu Categories\" in menu bar"
+msgstr ""
+
+#: ../lib/includes/theme_customization.php:926
+msgid "Category Page Layout"
+msgstr "Catégorie Mise en page"
+
+#: ../lib/includes/theme_customization.php:930
+#: ../lib/includes/theme_customization.php:1049
+#: ../lib/includes/theme_customization.php:1092
+#: ../lib/includes/theme_customization.php:1106
+#: ../lib/includes/theme_customization.php:1120
+msgid "No Sidebar"
+msgstr "Pas Sidebar"
+
+#: ../lib/includes/theme_customization.php:931
+#: ../lib/includes/theme_customization.php:1050
+#: ../lib/includes/theme_customization.php:1093
+#: ../lib/includes/theme_customization.php:1107
+#: ../lib/includes/theme_customization.php:1121
+msgid "Right"
+msgstr "droit"
+
+#: ../lib/includes/theme_customization.php:932
+#: ../lib/includes/theme_customization.php:1051
+#: ../lib/includes/theme_customization.php:1094
+#: ../lib/includes/theme_customization.php:1108
+#: ../lib/includes/theme_customization.php:1122
+msgid "Left"
+msgstr "gauche"
+
+#: ../lib/includes/theme_customization.php:946
+msgid "Select Columns"
+msgstr "Sélectionner les colonnes"
+
+#: ../lib/includes/theme_customization.php:949
+msgid "4 Columns"
+msgstr "4 Columns"
+
+#: ../lib/includes/theme_customization.php:950
+msgid "3 Columns"
+msgstr "Colonnes 3"
+
+#: ../lib/includes/theme_customization.php:951
+msgid "2 Columns"
+msgstr "2 colonnes"
+
+#: ../lib/includes/theme_customization.php:960
+msgid "Disable Lightbox Icon"
+msgstr "Désactiver Lightbox Icône"
+
+#: ../lib/includes/theme_customization.php:969
+msgid "Disable Post Link Icon"
+msgstr "Désactiver Poster Link Icon"
+
+#: ../lib/includes/theme_customization.php:979
+msgid "Thumbnail Height"
+msgstr "Miniature Hauteur"
+
+#: ../lib/includes/theme_customization.php:987
+msgid "Posts Title Settings"
+msgstr "Messages Réglages titres"
+
+#: ../lib/includes/theme_customization.php:996
+msgid "Enable Posts Title"
+msgstr "Activer les messages Titre"
+
+#: ../lib/includes/theme_customization.php:1008
+msgid "Title Background Color"
+msgstr "Titre Fond Couleur"
+
+#: ../lib/includes/theme_customization.php:1038
+msgid "Blog Page Section"
+msgstr "Blog page Section"
+
+#: ../lib/includes/theme_customization.php:1045
+msgid "Page Sidebar Settings"
+msgstr "Paramètres de la page Sidebar"
+
+#: ../lib/includes/theme_customization.php:1060
+msgid "Select Category"
+msgstr "Choisir une catégorie"
+
+#: ../lib/includes/theme_customization.php:1070
+msgid "Readmore Button Text"
+msgstr "Readmore Bouton texte"
+
+#: ../lib/includes/theme_customization.php:1081
+msgid "Woocommerce Page Section"
+msgstr "WooCommerce Section Page"
+
+#: ../lib/includes/theme_customization.php:1088
+msgid "Shop Page Sidebar"
+msgstr "Magasinez page Sidebar"
+
+#: ../lib/includes/theme_customization.php:1102
+msgid "Product Categories / Tags  Page Sidebar"
+msgstr "Les catégories de produit / Mots clés page Sidebar"
+
+#: ../lib/includes/theme_customization.php:1116
+msgid "Shop Single Page Sidebar"
+msgstr "Magasinez seule page Sidebar"
+
+#: ../lib/includes/theme_customization.php:1130
+msgid "Primary Buttons Color Section"
+msgstr "Boutons primaires Section couleur"
+
+#: ../lib/includes/theme_customization.php:1139
+msgid ""
+"Note: Color applies for Add to cart, Update Cart , mini cart items and  "
+"Apply Coupon buttons"
+msgstr ""
+"Note: La couleur s'applique pour Ajouter au panier, à jour le panier, mini-"
+"panier produits et boutons Appliquer promos"
+
+#: ../lib/includes/theme_customization.php:1150
+msgid "Primary  Buttons BG Color"
+msgstr "Boutons primaires BG couleur"
+
+#: ../lib/includes/theme_customization.php:1156
+msgid "Primary  Buttons Text Color"
+msgstr "Boutons primaires Couleur du texte"
+
+#: ../lib/includes/theme_customization.php:1164
+msgid "Primary  Buttons BG Hover Color"
+msgstr "Boutons primaires BG Hover couleur"
+
+#: ../lib/includes/theme_customization.php:1171
+msgid "Primary  Buttons Text Hover Color"
+msgstr "Boutons primaire texte Hover couleur"
+
+#: ../lib/includes/theme_customization.php:1177
+msgid "Secondary Buttons Color Section"
+msgstr "Boutons secondaires Section couleur"
+
+#: ../lib/includes/theme_customization.php:1186
+msgid ""
+"Note: Color applies for Tabs active color, tab hover color, quantity(plus, "
+"minus), view Cart, proceed to checkout and place order buttons"
+msgstr ""
+"Note: La couleur s'applique pour les onglets de couleur active, couleur "
+"onglet de survol, la quantité (plus, moins), vue panier, passez à la caisse "
+"et boutons lieu de commande"
+
+#: ../lib/includes/theme_customization.php:1197
+msgid "Secondary Buttons BG Color"
+msgstr "Boutons secondaires BG couleur"
+
+#: ../lib/includes/theme_customization.php:1203
+msgid "Secondary Buttons Text Color"
+msgstr "Boutons secondaires Couleur du texte"
+
+#: ../lib/includes/theme_customization.php:1211
+msgid "Secondary Buttons BG Hover Color"
+msgstr "Boutons secondaires BG Hover couleur"
+
+#: ../lib/includes/theme_customization.php:1218
+msgid "Secondary Buttons Text Hover Color"
+msgstr "Boutons secondaires texte Hover couleur"
+
+#: ../lib/includes/theme_customization.php:1226
+msgid "Elements color"
+msgstr "couleur des éléments"
+
+#: ../lib/includes/theme_customization.php:1232
+msgid ""
+"Note: color applied for price, onsale tag, star-rating, .quantity .minus / "
+"plus hover and etc..."
+msgstr ""
+"Remarque: la couleur demandée prix, tag OnSale, nombre d'étoiles, .minus de ."
+"quantity / plus planer et etc ..."
+
+#: ../lib/includes/theme_customization.php:1241
+msgid "Alert Boxes Section"
+msgstr "Alerte Boîtes Section"
+
+#: ../lib/includes/theme_customization.php:1252
+msgid "Success Alert Box BG Color"
+msgstr "Succès Alerte Box BG couleur"
+
+#: ../lib/includes/theme_customization.php:1259
+msgid "Success Alert Box Text Color"
+msgstr "Succès Alerte Color Box du texte"
+
+#: ../lib/includes/theme_customization.php:1267
+msgid "Notification Alert Box BG Color"
+msgstr "Notification d'alerte Box BG couleur"
+
+#: ../lib/includes/theme_customization.php:1274
+msgid "Notification Alert Box Text Color"
+msgstr "Notification d'alerte boîte de couleur du texte"
+
+#: ../lib/includes/theme_customization.php:1282
+msgid "Warning Alert Box BG Color"
+msgstr "Avertissement Box alerte BG couleur"
+
+#: ../lib/includes/theme_customization.php:1289
+msgid "Warning Alert Box Text Color"
+msgstr "Avertissement Alerte Color Box du texte"
+
+#: ../lib/includes/theme_customization.php:1324
+msgid "Footer Section"
+msgstr "Pied de page Section"
+
+#: ../lib/includes/theme_customization.php:1388
+msgid "Upload Footer Background Image"
+msgstr "Ajouter Footer image de fond"
+
+#: ../lib/includes/theme_customization.php:1414
+msgid "Footer Background Color"
+msgstr "Pied de page couleur de fond"
+
+#: ../lib/includes/theme_customization.php:1420
+msgid "Titles Color"
+msgstr "titres couleur"
+
+#: ../lib/includes/theme_customization.php:1432
+msgid "Hyper Link Color"
+msgstr "Hyper Couleur des liens"
+
+#: ../lib/includes/theme_customization.php:1438
+msgid "Hyper Link Hover Color"
+msgstr "Hyper lien Hover couleur"
+
+#: ../lib/includes/theme_customization.php:1445
+msgid "Footer Settings"
+msgstr "Réglages Pied de page"
+
+#: ../lib/includes/theme_customization.php:1452
+msgid "Disable Footer"
+msgstr "Désactiver Footer"
+
+#: ../lib/includes/theme_customization.php:1464
+msgid "Contact Information"
+msgstr "coordonnées"
+
+#: ../lib/includes/theme_customization.php:1477
+msgid "Copy Rights"
+msgstr "Copiez l'homme"
+
+#: ../lib/includes/theme_customization.php:1493
+msgid "Social Icons"
+msgstr "social Icons"
+
+#: ../lib/includes/theme_customization.php:1546
+msgid "Typography"
+msgstr "typographie"
+
+#: ../lib/includes/theme_customization.php:1549
+msgid "Select Google Fonts"
+msgstr "Sélectionnez Google Fonts"
+
+#: ../lib/includes/theme_customization.php:1564
+msgid "Enter Google font for Body"
+msgstr "Entrez police Google pour le corps"
+
+#: ../lib/includes/theme_customization.php:1580
+msgid "Enter Google font for Headings"
+msgstr "Entrez police Google pour les rubriques"
+
+#: ../lib/includes/theme_customization.php:1596
+msgid "Enter Google font for Top Menu"
+msgstr "Entrez police Google pour Top Menu"
+
+#: ../lib/includes/theme_customization.php:1615
+msgid "Body Font Size"
+msgstr "Corps Taille de la police"
+
+#: ../lib/includes/theme_customization.php:1632
+msgid "Menu  Font Size"
+msgstr "Menu Taille de la police"
+
+#: ../lib/includes/theme_customization.php:1651
+msgid "Font size for heading - H1"
+msgstr "Taille de la police pour titre - H1"
+
+#: ../lib/includes/theme_customization.php:1669
+msgid "Font size for heading - H2"
+msgstr "Taille de la police pour titre - H2"
+
+#: ../lib/includes/theme_customization.php:1686
+msgid "Font size for heading - H3"
+msgstr "Taille de la police pour titre - H3"
+
+#: ../lib/includes/theme_customization.php:1703
+msgid "Font size for heading - H4"
+msgstr "Taille de la police pour titre - H4"
+
+#: ../lib/includes/theme_customization.php:1720
+msgid "Font size for heading - H5"
+msgstr "Taille de la police pour titre - H5"
+
+#: ../lib/includes/theme_customization.php:1737
+msgid "Font size for heading - H6"
+msgstr "Taille de la police pour titre - H6"
+
+#: ../lib/includes/theme_customization.php:1752
+msgid "Global Settings"
+msgstr "Paramètres globaux"
+
+#: ../lib/includes/theme_customization.php:1764
+msgid "Upload Favicon Image"
+msgstr "Téléchargez Favicon image"
+
+#: ../lib/includes/theme_customization.php:1773
+msgid "Google Analytics Code"
+msgstr "Google Analytics code"
+
+#: ../lib/includes/theme_customization.php:1783
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: ../lib/includes/theme_customization.php:1793
+msgid "Custom JQUERY"
+msgstr "JQUERY personnalisée"
+
+#: ../lib/meta-box/demo/all-custom-post-types.php:20
+msgid "Personal Information"
+msgstr "renseignements personnels"
+
+#: ../lib/meta-box/demo/all-custom-post-types.php:25
+msgid "Full name"
+msgstr "nom et prénom"
+
+#: ../lib/meta-box/demo/better-include.php:14
+#: ../lib/meta-box/demo/include-by-ID-or-page-template.php:6
+msgid "Meta Box Title"
+msgstr "Meta Titre de la zone"
+
+#: ../lib/meta-box/demo/better-include.php:17
+#: ../lib/meta-box/demo/include-by-ID-or-page-template.php:12
+msgid "Your images"
+msgstr "vos images"
+
+#: ../lib/meta-box/demo/date-time-js-options.php:11
+msgid "Date Time Picker With JS Options"
+msgstr "Date Heure Picker avec les options JS"
+
+#: ../lib/meta-box/demo/date-time-js-options.php:15
+msgid "Date"
+msgstr "date"
+
+#: ../lib/meta-box/demo/date-time-js-options.php:21
+msgid "(yyyy-mm-dd)"
+msgstr "(yyyy-mm-dd)"
+
+#: ../lib/meta-box/demo/date-time-js-options.php:23
+msgid "Select Date"
+msgstr "Sélectionnez Date"
+
+#: ../lib/meta-box/demo/date-time-js-options.php:24
+msgid "yy-mm-dd"
+msgstr "aa-mm-jj"
+
+#: ../lib/meta-box/demo/date-time-js-options.php:30
+msgid "Datetime"
+msgstr "datetime"
+
+#: ../lib/meta-box/demo/date-time-js-options.php:41
+msgid "Time"
+msgstr "temps"
+
+#: ../lib/meta-box/demo/force-delete.php:11
+msgid "Test Meta Box"
+msgstr "Test de Meta Box"
+
+#: ../lib/meta-box/demo/force-delete.php:15
+msgid "File Upload"
+msgstr "File Upload"
+
+#: ../lib/meta-box/demo/force-delete.php:22
+msgid "Image Upload"
+msgstr "Image Sélectionner Démo"
+
+#: ../lib/meta-box/demo/force-delete.php:28
+msgid "Thickbox Image Upload"
+msgstr "Thickbox Image Upload"
+
+#: ../lib/meta-box/demo/force-delete.php:35
+msgid "Plupload Image Upload"
+msgstr "Plupload Image Upload"
+
+#: ../lib/meta-box/demo/image-select.php:6
+msgid "Image Select Demo"
+msgstr "Image Sélectionner Démo"
+
+#: ../lib/meta-box/demo/image-select.php:10
+msgid "Layout"
+msgstr "disposition"
+
+#: ../lib/meta-box/demo/map.php:9
+msgid "Google Map"
+msgstr "Google Map"
+
+#: ../lib/meta-box/demo/map.php:13
+msgid "Address"
+msgstr "adresse"
+
+#: ../lib/meta-box/demo/map.php:15
+msgid "Hanoi, Vietnam"
+msgstr "Hanoi, Vietnam"
+
+#: ../lib/meta-box/demo/map.php:19
+msgid "Location"
+msgstr "emplacement"
+
+#: ../lib/meta-box/demo/oembed.php:6
+msgid "oEmbed Demo"
+msgstr "oEmbed Démo"
+
+#: ../lib/meta-box/demo/oembed.php:10
+msgid "oEmbed(s)"
+msgstr "oEmbed (s)"
+
+#: ../lib/meta-box/demo/slider.php:6
+msgid "Slider Demo"
+msgstr "curseur Démo"
+
+#: ../lib/meta-box/demo/slider.php:9 ../lib/meta-boxes.php:520
+msgid "Slider"
+msgstr "curseur"
+
+#: ../lib/meta-box/demo/slider.php:14
+msgid "$"
+msgstr "$"
+
+#: ../lib/meta-box/demo/slider.php:15
+msgid " USD"
+msgstr "USD"
+
+#: ../lib/meta-box/demo/url.php:6
+msgid "URL Demo"
+msgstr "URL Démo"
+
+#: ../lib/meta-box/demo/url.php:10
+msgid "URL(s)"
+msgstr "URL (s)"
+
+#: ../lib/meta-box/inc/field.php:186
+msgid "+"
+msgstr "+"
+
+#: ../lib/meta-box/inc/field.php:203
+msgid "&#8211;"
+msgstr "-"
+
+#: ../lib/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr "Cliquez sur moi"
+
+#: ../lib/meta-box/inc/fields/file-advanced.php:23
+#: ../lib/meta-box/inc/fields/plupload-image.php:104
+msgid "Select Files"
+msgstr "Sélectionnez Fichiers"
+
+#: ../lib/meta-box/inc/fields/file-advanced.php:64
+msgid "Select or Upload Files"
+msgstr "Sélectionnez ou télécharger des fichiers"
+
+#: ../lib/meta-box/inc/fields/file-advanced.php:100
+#: ../lib/meta-box/inc/fields/file.php:137
+#: ../lib/meta-box/inc/fields/image-advanced.php:106
+#: ../lib/meta-box/inc/fields/image.php:137
+msgid "Delete"
+msgstr "effacer"
+
+#: ../lib/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr "Sélectionnez Fichier"
+
+#: ../lib/meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr "sélectionner"
+
+#: ../lib/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "Vous ne pouvez télécharger le fichier maximale% d"
+
+#: ../lib/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "Vous ne pouvez télécharger des fichiers maximales% d"
+
+#: ../lib/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr "Erreur: Impossible de supprimer le fichier"
+
+#: ../lib/meta-box/inc/fields/file.php:83
+msgid "Upload Files"
+msgstr "Télécharger des fichiers"
+
+#: ../lib/meta-box/inc/fields/file.php:84
+msgid "+ Add new file"
+msgstr "+ Ajouter un nouveau fichier"
+
+#: ../lib/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr "Sélectionner les images"
+
+#: ../lib/meta-box/inc/fields/image-advanced.php:70
+msgid "Select or Upload Images"
+msgstr "Sélectionnez ou Envoyer des images"
+
+#: ../lib/meta-box/inc/fields/image.php:70
+msgid "Upload Images"
+msgstr "Envoyer des images"
+
+#: ../lib/meta-box/inc/fields/image.php:71
+msgid "+ Add new image"
+msgstr "+ Ajouter une nouvelle image"
+
+#: ../lib/meta-box/inc/fields/plupload-image.php:102
+msgid "Drop images here"
+msgstr "Déposer des images ici"
+
+#: ../lib/meta-box/inc/fields/plupload-image.php:103
+msgid "or"
+msgstr "ou"
+
+#: ../lib/meta-box/inc/fields/plupload-image.php:179
+msgid "Allowed Image Files"
+msgstr "Admis fichiers image"
+
+#: ../lib/meta-box/inc/fields/thickbox-image.php:35
+msgid "Upload images"
+msgstr "Envoyer des images"
+
+#: ../lib/meta-box/inc/meta-box.php:241
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+"S'il vous plaît corriger les erreurs mises en évidence ci-dessous et essayez "
+"à nouveau."
+
+#: ../lib/meta-boxes.php:61
+msgid "Sub header section which displays below menu bar"
+msgstr "Sous-section d'en-tête qui affiche ci-dessous la barre de menu"
+
+#: ../lib/meta-boxes.php:69
+msgid "Select Subheader Style"
+msgstr "Sélectionnez sous-en-style"
+
+#: ../lib/meta-boxes.php:73
+msgid "Page Titlebar"
+msgstr "Cette page Titlebar"
+
+#: ../lib/meta-boxes.php:74
+msgid "Header Slider"
+msgstr "tête curseur"
+
+#: ../lib/meta-boxes.php:75
+msgid "Parallax Header Image"
+msgstr "Parallax Header Image"
+
+#: ../lib/meta-boxes.php:76 ../lib/meta-boxes.php:376
+msgid "None"
+msgstr "aucun"
+
+#: ../lib/meta-boxes.php:83
+msgid "Custom Page Title"
+msgstr "Titre de page personnalisé"
+
+#: ../lib/meta-boxes.php:90
+msgid "Page Title Description"
+msgstr "Titre de la page description"
+
+#: ../lib/meta-boxes.php:99
+msgid "Page Title & Description Alignment"
+msgstr "Titre de la page et description alignement"
+
+#: ../lib/meta-boxes.php:103 ../lib/meta-boxes.php:562
+msgid "Align Left"
+msgstr "aligner à gauche"
+
+#: ../lib/meta-boxes.php:104 ../lib/meta-boxes.php:563
+msgid "Align Right"
+msgstr "aligner à droite"
+
+#: ../lib/meta-boxes.php:105
+msgid "Align Center"
+msgstr "Centrer"
+
+#: ../lib/meta-boxes.php:113
+msgid "Select Header Slider Type"
+msgstr "Sélectionnez Type de tête curseur"
+
+#: ../lib/meta-boxes.php:117
+msgid "BX Slider"
+msgstr "BX curseur"
+
+#: ../lib/meta-boxes.php:118
+msgid "Slider Plugin Shortcode "
+msgstr "Curseur Plugin Shortcode"
+
+#: ../lib/meta-boxes.php:128
+msgid "Select Kaya Slider Category"
+msgstr "Sélectionnez Kaya curseur Catégorie"
+
+#: ../lib/meta-boxes.php:138
+msgid "Select Slider Mode"
+msgstr "Sélectionnez le mode Curseur"
+
+#: ../lib/meta-boxes.php:142
+msgid "Full Width"
+msgstr "pleine largeur"
+
+#: ../lib/meta-boxes.php:151 ../lib/meta-boxes.php:387
+msgid "Auto Play"
+msgstr "Auto Play"
+
+#: ../lib/meta-boxes.php:155 ../lib/meta-boxes.php:195
+#: ../lib/meta-boxes.php:391
+msgid "True"
+msgstr "vrai"
+
+#: ../lib/meta-boxes.php:156 ../lib/meta-boxes.php:196
+#: ../lib/meta-boxes.php:392
+msgid "False"
+msgstr "faux"
+
+#: ../lib/meta-boxes.php:163
+msgid "Slide Transition"
+msgstr "Transition"
+
+#: ../lib/meta-boxes.php:167
+msgid "Horizontal"
+msgstr "horizontal"
+
+#: ../lib/meta-boxes.php:168
+msgid "Vertical"
+msgstr "vertical"
+
+#: ../lib/meta-boxes.php:169 ../lib/meta-boxes.php:377
+msgid "Fade"
+msgstr "Fade"
+
+#: ../lib/meta-boxes.php:176
+msgid "Slide Easing Effect"
+msgstr "Faites glisser un effet d'accélération"
+
+#: ../lib/meta-boxes.php:180
+msgid "Enter easing effect Ex:linear, swing,easeOutElastic"
+msgstr "Entrez assouplissement effet Ex: linéaire, swing, easeOutElastic"
+
+#: ../lib/meta-boxes.php:180
+msgid " for more transition effects "
+msgstr "pour plus d'effets de transition"
+
+#: ../lib/meta-boxes.php:183
+msgid "Slide Pause Time"
+msgstr "Glisser Temps de Pause"
+
+#: ../lib/meta-boxes.php:187
+msgid "The amount of time (in ms) between each auto transition"
+msgstr "La quantité de temps (en ms) entre chaque transition automatique"
+
+#: ../lib/meta-boxes.php:187
+msgid "Ex: 4000"
+msgstr "Ex: 4000"
+
+#: ../lib/meta-boxes.php:191
+msgid " Auto Height"
+msgstr "Hauteur automatique"
+
+#: ../lib/meta-boxes.php:211
+msgid "Slider Items Order"
+msgstr "Curseur Articles Commander"
+
+#: ../lib/meta-boxes.php:215
+msgid "Decending Order"
+msgstr "decending ordre"
+
+#: ../lib/meta-boxes.php:216
+msgid "Ascending Order"
+msgstr "ordre croissant"
+
+#: ../lib/meta-boxes.php:223
+msgid "Slider Items Limit"
+msgstr "Limite curseur Articles"
+
+#: ../lib/meta-boxes.php:243
+msgid "Slider Shortcode"
+msgstr "curseur Shortcode"
+
+#: ../lib/meta-boxes.php:246
+msgid "Ex: [customslider shortcode_name]"
+msgstr "Ex: [customslider shortcode_name]"
+
+#: ../lib/meta-boxes.php:250
+msgid "Parallax Bg Image"
+msgstr "Parallax Bg image"
+
+#: ../lib/meta-boxes.php:251
+msgid "Select image and click"
+msgstr "Sélectionnez l'image et cliquez sur"
+
+#: ../lib/meta-boxes.php:251
+msgid "Insert into page"
+msgstr "Insérer dans la page"
+
+#: ../lib/meta-boxes.php:256
+msgid "Background Position "
+msgstr "Contexte Position"
+
+#: ../lib/meta-boxes.php:260
+msgid "Fixed"
+msgstr "fixé"
+
+#: ../lib/meta-boxes.php:261
+msgid "Scroll"
+msgstr "rouleau"
+
+#: ../lib/meta-boxes.php:266
+msgid "Image Height ( px )"
+msgstr "Hauteur de l'image (px)"
+
+#: ../lib/meta-boxes.php:267
+msgid "By default Screen height is displayed"
+msgstr "Par défaut la hauteur de l'écran s'affiche"
+
+#: ../lib/meta-boxes.php:273
+msgid "Image Overlay Text "
+msgstr "Superposition texte"
+
+#: ../lib/meta-boxes.php:274
+msgid "Enter content like below html format"
+msgstr "Entrez le contenu comme ci-dessous le format html"
+
+#: ../lib/meta-boxes.php:323
+msgid "Full screen Background Settings"
+msgstr "Paramètres arrière-plan en plein écran"
+
+#: ../lib/meta-boxes.php:329
+msgid "Select Full Screen Bg Type"
+msgstr "Sélectionnez Plein écran de type Bg"
+
+#: ../lib/meta-boxes.php:333
+msgid "Single Image"
+msgstr "une seule image"
+
+#: ../lib/meta-boxes.php:334
+msgid "Image Slider"
+msgstr "image Slider"
+
+#: ../lib/meta-boxes.php:335
+msgid "Video Background"
+msgstr "vidéo Contexte"
+
+#: ../lib/meta-boxes.php:343
+msgid "Upload Image"
+msgstr "Envoyer une image"
+
+#: ../lib/meta-boxes.php:356
+msgid "Fit Screen size"
+msgstr "Taille de l'écran Fit"
+
+#: ../lib/meta-boxes.php:363
+msgid "Full Screen Slider Images"
+msgstr "Plein écran Curseur Images"
+
+#: ../lib/meta-boxes.php:364
+msgid "These images are displayed as Full screen Background slider."
+msgstr "Ces images sont affichées en plein écran curseur de fond."
+
+#: ../lib/meta-boxes.php:370
+msgid "Full Screen Bg Slide Transition"
+msgstr "Plein écran transition Bg Slide"
+
+#: ../lib/meta-boxes.php:378
+msgid "Slide Top"
+msgstr "Faites glisser Top"
+
+#: ../lib/meta-boxes.php:379
+msgid "Slide Right"
+msgstr "Glissez droit"
+
+#: ../lib/meta-boxes.php:380
+msgid "Slide Bottom"
+msgstr "Glisser Bas"
+
+#: ../lib/meta-boxes.php:381
+msgid "Slide Left"
+msgstr "Faites glisser à gauche"
+
+#: ../lib/meta-boxes.php:382
+msgid "Carousel Right"
+msgstr "Carousel droit"
+
+#: ../lib/meta-boxes.php:383
+msgid "Carousel Left"
+msgstr "Carousel gauche"
+
+#: ../lib/meta-boxes.php:400
+msgid "You Tube Video ID"
+msgstr "You Tube Video ID"
+
+#: ../lib/meta-boxes.php:404
+msgid "<strong>Note : </strong> It works  youtube video id only"
+msgstr ""
+
+#: ../lib/meta-boxes.php:407
+msgid "Fullscreen Background Pattern"
+msgstr "Plein Motif du fond"
+
+#: ../lib/meta-boxes.php:422
+msgid "Food Menu Item Price"
+msgstr "Alimentation Menu filtre Prix"
+
+#: ../lib/meta-boxes.php:428 ../woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr "prix"
+
+#: ../lib/meta-boxes.php:443
+msgid "General Options"
+msgstr "options générales"
+
+#: ../lib/meta-boxes.php:448
+msgid "Custom Title for this post"
+msgstr "Titre sur mesure pour ce poste"
+
+#: ../lib/meta-boxes.php:456
+msgid "External link to"
+msgstr "Lien externe à"
+
+#: ../lib/meta-boxes.php:463 ../lib/meta-boxes.php:801
+msgid "Open In New Window"
+msgstr "Ouvrir dans une nouvelle fenêtre"
+
+#: ../lib/meta-boxes.php:470
+msgid "Related Posts"
+msgstr "Related Posts"
+
+#: ../lib/meta-boxes.php:474
+msgid "Display Related posts at the bottom of this post in single page"
+msgstr "Afficher Related posts au bas de ce post en page unique"
+
+#: ../lib/meta-boxes.php:474
+msgid "Related post displays based on tags"
+msgstr "Affiche de poste connexes basés sur les étiquettes"
+
+#: ../lib/meta-boxes.php:484
+msgid "Light Box Video Url"
+msgstr "Light Box URL de la vidéo"
+
+#: ../lib/meta-boxes.php:493
+msgid "Note: It support only for youtube & vimeo videos"
+msgstr "Note: Il ne supporte que pour youtube et vimeo vidéos"
+
+#: ../lib/meta-boxes.php:503
+msgid "Single Post Images / Videos"
+msgstr "Seul poste Images / Vidéos"
+
+#: ../lib/meta-boxes.php:509
+msgid "Post Slides"
+msgstr "Déposer Diapositives"
+
+#: ../lib/meta-boxes.php:516
+msgid "Images Display Format"
+msgstr "Images Format d'affichage"
+
+#: ../lib/meta-boxes.php:521
+msgid "Gallery"
+msgstr "galerie"
+
+#: ../lib/meta-boxes.php:549
+msgid "Video Embed Code"
+msgstr ""
+
+#: ../lib/meta-boxes.php:555
+msgid "Alignment"
+msgstr "alignement"
+
+#: ../lib/meta-boxes.php:561
+msgid "Fullwidth"
+msgstr "pleine chasse"
+
+#: ../lib/meta-boxes.php:641
+msgid "Video"
+msgstr "vidéo"
+
+#: ../lib/meta-boxes.php:647
+msgid "Add Iframe Video"
+msgstr "Ajouter Iframe Vidéo"
+
+#: ../lib/meta-boxes.php:659
+msgid "Blog Post Image Settings"
+msgstr "Blog Post Paramètres d'image"
+
+#: ../lib/meta-boxes.php:666
+msgid "Disable Featured Image Stretch"
+msgstr "Désactiver Photo descriptive extensible"
+
+#: ../lib/meta-boxes.php:680
+msgid "Gallery Format"
+msgstr "Galerie Format"
+
+#: ../lib/meta-boxes.php:686
+msgid "Post Format Gallery"
+msgstr "Poster Format Galerie"
+
+#: ../lib/meta-boxes.php:687
+msgid ""
+"These images are displayed in Post single page, Upload up to 500 project "
+"images for a slideshow"
+msgstr ""
+"Ces images sont affichées Poster seule page, de télécharger jusqu'à 500 "
+"images de projet pour un diaporama"
+
+#: ../lib/meta-boxes.php:694
+msgid "Gallery Slider"
+msgstr "Galerie curseur"
+
+#: ../lib/meta-boxes.php:707
+msgid "Quote Format"
+msgstr "Citation Format"
+
+#: ../lib/meta-boxes.php:713
+msgid "Quote"
+msgstr "Citation Format..."
+
+#: ../lib/meta-boxes.php:726
+msgid "Audio Format"
+msgstr "Format audio"
+
+#: ../lib/meta-boxes.php:732
+msgid "Audio Embed"
+msgstr "audio Intégrer"
+
+#: ../lib/meta-boxes.php:746
+msgid "Link Format"
+msgstr "lien Format"
+
+#: ../lib/meta-boxes.php:752 ../lib/meta-boxes.php:837
+msgid "Link"
+msgstr "lien"
+
+#: ../lib/meta-boxes.php:767
+msgid "Slider Settings"
+msgstr "Paramètres Slider"
+
+#: ../lib/meta-boxes.php:772
+msgid "Slide Title Description"
+msgstr "Faites glisser Titre Description"
+
+#: ../lib/meta-boxes.php:780
+msgid "Slide Text Color"
+msgstr "Faites glisser la couleur du texte"
+
+#: ../lib/meta-boxes.php:787
+msgid "Disable Slide Title/Description"
+msgstr "Désactiver Slide Title / Description"
+
+#: ../lib/meta-boxes.php:794
+msgid "Slide link"
+msgstr "Lien de diapositives"
+
+#: ../lib/meta-boxes.php:817
+msgid "Testimonial Settings"
+msgstr "Paramètres témoignage"
+
+#: ../lib/meta-boxes.php:822
+msgid "Description"
+msgstr "description"
+
+#: ../lib/meta-boxes.php:830
+msgid "Designation"
+msgstr "désignation"
+
+#: ../lib/plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "Quelque chose s'est mal passé."
+
+#: ../lib/plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr "Retour au tableau de bord"
+
+#: ../lib/plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr "Le plugin suivant a été activé avec succès:"
+
+#: ../lib/plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../lib/plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr "Rejeter cet avis"
+
+#: ../lib/plugin-activation.php:534 ../lib/plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr "Retour au tableau de bord"
+
+#: ../lib/plugin-activation.php:1169
+msgid "Private Repository"
+msgstr "référentiel privé"
+
+#: ../lib/plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr "Préemballés"
+
+#: ../lib/plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr "référentiel WordPress"
+
+#: ../lib/plugin-activation.php:1180
+msgid "Required"
+msgstr "requis"
+
+#: ../lib/plugin-activation.php:1180
+msgid "Recommended"
+msgstr "recommandé"
+
+#: ../lib/plugin-activation.php:1183
+msgid "Not Installed"
+msgstr "non installé"
+
+#: ../lib/plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr "Installé mais pas activé"
+
+#: ../lib/plugin-activation.php:1290 ../lib/plugin-activation.php:1398
+msgid "Install"
+msgstr "installer"
+
+#: ../lib/plugin-activation.php:1312 ../lib/plugin-activation.php:1399
+msgid "Activate"
+msgstr "activer"
+
+#: ../lib/plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Aucun plugin à installer ou à activer. <a href=\"%1$s\" title=\"Return à la "
+"Dashboard\"> retour à la </a> tableau de bord"
+
+#: ../lib/plugin-activation.php:1377
+msgid "Plugin"
+msgstr "plugin"
+
+#: ../lib/plugin-activation.php:1378
+msgid "Source"
+msgstr "source"
+
+#: ../lib/plugin-activation.php:1379
+msgid "Type"
+msgstr "type"
+
+#: ../lib/plugin-activation.php:1380
+msgid "Status"
+msgstr "statut"
+
+#: ../lib/plugin-activation.php:1928
+msgid "Install package not available."
+msgstr "Installer le paquet n'est pas disponible."
+
+#: ../lib/plugin-activation.php:1929
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../lib/plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr "Déballage du paquet ..."
+
+#: ../lib/plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr "Installation du plug-in ..."
+
+#: ../lib/plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr "Plugin installation a échoué."
+
+#: ../lib/plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr "Plugin installé avec succès."
+
+#: ../lib/plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr "Plugin activation a échoué."
+
+#: ../lib/plugin-activation.php:2058
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Le processus d'installation et d'activation commence. Ce processus peut "
+"prendre un certain temps sur certains hôtes, donc s'il vous plaît soyez "
+"patient."
+
+#: ../lib/plugin-activation.php:2059
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../lib/plugin-activation.php:2059 ../lib/plugin-activation.php:2068
+msgid "Show Details"
+msgstr "Afficher les détails"
+
+#: ../lib/plugin-activation.php:2059 ../lib/plugin-activation.php:2068
+msgid "Hide Details"
+msgstr "Masquer les détails"
+
+#: ../lib/plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et les activations ont été achevés."
+
+#: ../lib/plugin-activation.php:2061
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2065
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Le processus d'installation commence. Ce processus peut prendre un certain "
+"temps sur certains hôtes, donc s'il vous plaît soyez patient."
+
+#: ../lib/plugin-activation.php:2066
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../lib/plugin-activation.php:2067
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../lib/plugin-activation.php:2068
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../lib/plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr "Toutes les installations ont été achevées."
+
+#: ../lib/plugin-activation.php:2070
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../loop-portfolio.php:93 ../single.php:114
+msgid "Pages:"
+msgstr "Pages:"
+
+#: ../loop.php:34
+msgid "0"
+msgstr "0"
+
+#: ../loop.php:34
+msgid "1"
+msgstr "1"
+
+#: ../loop.php:34
+msgid "%"
+msgstr "%"
+
+#: ../search.php:25
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspond à vos critères de recherche. S'il vous plaît "
+"essayer de nouveau avec quelques mots-clés différents."
+
+#: ../searchform.php:2
+msgid "Search here..."
+msgstr "Cherchez ici ..."
+
+#: ../single.php:124
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:16
+msgid "Your cart is currently empty."
+msgstr "Votre panier est actuellement vide."
+
+#: ../woocommerce/cart/cart-empty.php:20
+msgid "Return To Shop"
+msgstr "Retour à la boutique"
+
+#: ../woocommerce/cart/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr "Shipping #%d"
+
+#: ../woocommerce/cart/cart-shipping.php:18
+msgid "Shipping and Handling"
+msgstr "Frais de port et de manutention"
+
+#: ../woocommerce/cart/cart-shipping.php:55
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+"S'il vous plaît utiliser la calculatrice d'expédition pour voir les méthodes "
+"d'expédition disponibles."
+
+#: ../woocommerce/cart/cart-shipping.php:59
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+"S'il vous plaît continuer à la caisse et entrez votre adresse complète pour "
+"voir s'il ya des méthodes d'expédition disponibles."
+
+#: ../woocommerce/cart/cart-shipping.php:63
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+"S'il vous plaît remplir vos coordonnées pour voir les méthodes d'expédition "
+"disponibles."
+
+#: ../woocommerce/cart/cart-shipping.php:72
+#: ../woocommerce/cart/cart-shipping.php:78
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr ""
+"Il doesn & lsquo; t semblent être des méthodes d'expédition disponibles. "
+"S'il vous plaît vérifier votre adresse, ou nous contacter si vous avez "
+"besoin d'aide."
+
+#: ../woocommerce/cart/cart-shipping.php:93
+msgid "Shipping"
+msgstr "livraison"
+
+#: ../woocommerce/cart/cart-totals.php:16
+msgid "Cart Totals"
+msgstr "Panier totaux"
+
+#: ../woocommerce/cart/cart-totals.php:21
+msgid "Cart Subtotal"
+msgstr "Panier Total"
+
+#: ../woocommerce/cart/cart-totals.php:75
+msgid "Order Total"
+msgstr "total de la commande"
+
+#: ../woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr "(taxes estimé pour% s)"
+
+#: ../woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"Remarque: Frais de port et les taxes sont estimées% s et seront mis à jour "
+"lors de la commande en fonction de votre facturation et d'expédition."
+
+#: ../woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr "produit"
+
+#: ../woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr "quantité"
+
+#: ../woocommerce/cart/cart.php:30
+msgid "Total"
+msgstr "total"
+
+#: ../woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr "Supprimer cet article"
+
+#: ../woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr "Available on backorder"
+
+#: ../woocommerce/cart/cart.php:119
+msgid "Coupon"
+msgstr "coupon"
+
+#: ../woocommerce/cart/cart.php:119
+msgid "Coupon code"
+msgstr "coupon code"
+
+#: ../woocommerce/cart/cart.php:119
+msgid "Apply Coupon"
+msgstr "Apply Coupon"
+
+#: ../woocommerce/cart/cart.php:126
+msgid "Update Cart"
+msgstr "Update Cart"
+
+#: ../woocommerce/cart/cart.php:126
+msgid "Proceed to Checkout"
+msgstr "Proceed to Checkout"
+
+#: ../woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr "You May Be Interested in & hellip;"
+
+#: ../woocommerce/cart/mini-cart.php:52
+msgid "No products in the cart."
+msgstr "No products in the cart."
+
+#: ../woocommerce/cart/mini-cart.php:60
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: ../woocommerce/cart/mini-cart.php:65
+msgid "View Cart"
+msgstr "View Cart"
+
+#: ../woocommerce/cart/mini-cart.php:66
+msgid "Checkout"
+msgstr "Checkout"
+
+#: ../woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr "Calculate Shipping"
+
+#: ../woocommerce/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr "Select a country & hellip;"
+
+#: ../woocommerce/cart/shipping-calculator.php:45
+#: ../woocommerce/cart/shipping-calculator.php:51
+#: ../woocommerce/cart/shipping-calculator.php:63
+msgid "State / county"
+msgstr "State / county"
+
+#: ../woocommerce/cart/shipping-calculator.php:52
+msgid "Select a state&hellip;"
+msgstr "Select a state & hellip;"
+
+#: ../woocommerce/cart/shipping-calculator.php:72
+msgid "City"
+msgstr "City"
+
+#: ../woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr "Postcode / Zip"
+
+#: ../woocommerce/cart/shipping-calculator.php:85
+msgid "Update Totals"
+msgstr "Update Totals"
+
+#: ../woocommerce/loop/sale-flash.php:16
+#: ../woocommerce/single-product/product-image.php:17
+msgid "Sale!"
+msgstr "Sale!"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr "Choose an option"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr "Clear selection"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:103
+msgid "This product is currently out of stock and unavailable."
+msgstr "This product is Currently out of stock and unavailable."
+
+#: ../woocommerce/single-product/related.php:48
+msgid "Related Products"
+msgstr "Related Products"
+
+#: ../woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr "Additional Information"
+
+#: ../woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr "Product Description"
+
+#: ../woocommerce/single-product/up-sells.php:52
+msgid "You may also like&hellip;"
+msgstr "You may also like & hellip;"
+
+#~ msgid "Slider Height (px)<br><small>Ex:400-600</small>"
+#~ msgstr "Curseur Hauteur (px) <br> <small> Ex: 400-600 </ small>"

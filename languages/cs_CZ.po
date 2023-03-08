@@ -1,0 +1,2246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cooks\n"
+"POT-Creation-Date: 2014-10-10 15:00+0530\n"
+"PO-Revision-Date: 2014-10-10 15:01+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:13
+msgid "Error 404 - Page Not Found"
+msgstr "Chyba 404 - Stránka nebyla nalezena"
+
+#: ../404.php:18
+msgid " <h3>Archives by Subject:</h3>"
+msgstr "<H3> Archiv podle tématu: </ h3>"
+
+#: ../404.php:24
+msgid " <h3>Archives by Month::</h3>"
+msgstr "<H3> Archiv podle Měsíc :: </ h3>"
+
+#: ../BFI_Thumb.php:117
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+"Nemá serveru mají ImageMagick nebo GD nainstalován a / nebo povolen! Některý "
+"z těchto knihoven jsou nutné pro WordPress pro nevidomé v velikost obrázků. "
+"Obraťte se na správce serveru, aby to před pokračováním."
+
+#: ../BFI_Thumb.php:232
+msgid "Image rotate failed."
+msgstr "Obrázek otočit nepodařilo."
+
+#: ../BFI_Thumb.php:254
+msgid "Image opacity change failed."
+msgstr "Obrázek opacity výměna se nezdařila."
+
+#: ../BFI_Thumb.php:332
+msgid "Image color change failed."
+msgstr "Obrázek barvy nelze změnit."
+
+#: ../BFI_Thumb.php:348
+msgid "Image grayscale failed."
+msgstr "Obrázek ve stupních šedi se nezdařilo."
+
+#: ../BFI_Thumb.php:364
+msgid "Image negate failed."
+msgstr "Obrázek negovat nezdařilo."
+
+#: ../comments.php:9
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Tento příspěvek je chráněn heslem. Zadejte heslo pro zobrazení komentářů "
+"Nějaké."
+
+#: ../comments.php:34 ../comments.php:58
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:61
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:74
+msgid "Comments are closed."
+msgstr "Komentáře jsou uzavřeny."
+
+#: ../comments.php:83
+msgid "Name"
+msgstr "název"
+
+#: ../comments.php:85
+msgid "Email"
+msgstr "E-mail"
+
+#: ../comments.php:86
+msgid "Website"
+msgstr "Webové stránky"
+
+#: ../functions.php:49
+msgid "Primary Navigation"
+msgstr "primární navigace"
+
+#: ../functions.php:50
+msgid "Footer Navigation"
+msgstr "Navigace v zápatí"
+
+#: ../functions.php:92 ../lib/plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr "Instalace pluginů Povinné"
+
+#: ../functions.php:93 ../lib/plugin-activation.php:162
+msgid "Install Plugins"
+msgstr "nainstalujte moduly"
+
+#: ../functions.php:94 ../lib/plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#: ../functions.php:95
+msgid "Something went wrong with the plugin API."
+msgstr "Jel jsem něco s pluginem API špatně."
+
+#: ../functions.php:107 ../lib/plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr "Zpět k instalaci pluginů Povinné"
+
+#: ../functions.php:108 ../lib/plugin-activation.php:177
+#: ../lib/plugin-activation.php:1945
+msgid "Plugin activated successfully."
+msgstr "Plugin úspěšně aktivován."
+
+#: ../functions.php:109
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:214
+msgid "View your shopping cart"
+msgstr "Zobrazit nákupní košík"
+
+#: ../home.php:26 ../index.php:26
+msgid "No posts to display"
+msgstr "Žádné příspěvky k zobrazení"
+
+#: ../home.php:27 ../index.php:27
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+"Ready publikovat svůj první příspěvek? <a href=\"%s\"> Začněte zde </a> "
+"začalo."
+
+#: ../home.php:30 ../index.php:30 ../search.php:24
+msgid "Nothing Found"
+msgstr "nic nebylo nalezeno"
+
+#: ../home.php:31 ../index.php:31
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"Omlouváme se, ale nebyly nalezeny žádné výsledky. Snad hledání pomůže najít "
+"související post."
+
+#: ../lib/functions/common.php:157
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Tag Archives:% s"
+
+#: ../lib/functions/common.php:162
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Autor Archiv:% s"
+
+#: ../lib/functions/common.php:167
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Kategorie Archiv:% s"
+
+#: ../lib/functions/common.php:176 ../search.php:9
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Výsledky hledání pro:% s"
+
+#: ../lib/functions/common.php:178
+msgid "Error 404 - Not Found"
+msgstr "Chyba 404 - Nenalezeno"
+
+#: ../lib/functions/common.php:182
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Denní Archiv:% s"
+
+#: ../lib/functions/common.php:187
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Měsíční Archiv:% s"
+
+#: ../lib/functions/common.php:190
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Roční Archiv:% s"
+
+#: ../lib/functions/common.php:198
+msgid "Shop"
+msgstr "Shop"
+
+#: ../lib/functions/common.php:205
+msgid "Blog Archives"
+msgstr "blog Archives"
+
+#: ../lib/functions/common.php:271
+msgid " Footer Column "
+msgstr "Zápatí sloupec"
+
+#: ../lib/functions/common.php:273
+msgid ""
+"Wesce sit amet porttitor leo. Cum sociis natoque penatibus et magnis dis "
+"parturient montes, nascetur ridiculus mus. Quisque interdum, nulla sit amet "
+"varius dignissim Vestibulum pretium risus"
+msgstr "Zápatí sloupec..."
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:14
+msgid "Add New Post "
+msgstr "Přidat nový komentář"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:15
+#: ../lib/functions/custom_posts/kaya_slider.php:7
+#: ../lib/functions/custom_posts/kaya_slider.php:8
+msgid "Add New Post"
+msgstr "Přidat nový komentář"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:16
+#: ../lib/functions/custom_posts/kaya_slider.php:9
+msgid "Edit Post"
+msgstr "Editovat příspěvek"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:17
+msgid "New Post Item "
+msgstr "Nový příspěvek Položka"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:18
+msgid "View Post Item "
+msgstr "Nový příspěvek Položka..."
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:19
+msgid "Search "
+msgstr "Hledat"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:19
+msgid " Items"
+msgstr "předměty"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:20
+#: ../lib/functions/custom_posts/kaya_slider.php:13
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:12
+msgid "Nothing found"
+msgstr "nic nebylo nalezeno"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:21
+msgid "not_found_in_trash"
+msgstr "not_found_in_trash"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:55
+#: ../lib/functions/custom_posts/kaya_slider.php:69
+msgid "Category"
+msgstr "Kategorie"
+
+#: ../lib/functions/custom_posts/kaya_portfolio.php:56
+#: ../lib/functions/custom_posts/kaya_slider.php:70
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:69
+msgid "Post Image"
+msgstr "Odeslat"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:5
+#: ../lib/functions/custom_posts/kaya_slider.php:6
+msgid "Kaya Slider"
+msgstr "Kaya Slider"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:10
+msgid "New Slider Post Item"
+msgstr "New Slider Příspěvek zboží"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:11
+msgid "View slider Item"
+msgstr "Zobrazit slider položky"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:12
+msgid "Search Slider Items"
+msgstr "Hledat Výsuvný položky"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:14
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:13
+msgid "Nothing found in Trash"
+msgstr "Hledat Výsuvný položky..."
+
+#: ../lib/functions/custom_posts/kaya_slider.php:48
+#: ../lib/functions/custom_posts/kaya_slider.php:49
+#: ../lib/functions/custom_posts/kaya_slider.php:58
+msgid "Slider Categories"
+msgstr "Posuvník kategorie"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:50
+msgid "Search Slider Categories"
+msgstr "Hledat Výsuvný kategorie"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:51
+msgid "All Slider Categories"
+msgstr "Všechny Slider kategorie"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:52
+msgid "Parent Slider Category"
+msgstr "Parent Slider kategorie"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:53
+msgid "Parent Slider Category:"
+msgstr "Parent Slider Kategorie:"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:54
+msgid "Edit Slider Category"
+msgstr "Upravit Slider kategorie"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:55
+msgid "Update Slider Category"
+msgstr "Aktualizace Slider kategorie"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:56
+msgid "Add New Slider Category"
+msgstr "Přidat nové Slider kategorii"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:57
+msgid "New Slider Category"
+msgstr "New Slider kategorie"
+
+#: ../lib/functions/custom_posts/kaya_slider.php:116
+msgid "Add Slide Image - Size 1920x1080 (px) "
+msgstr "Přidat na snímek - velikost 1920x1080 (px)"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:4
+msgid "Tab Items"
+msgstr "karta položky"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:5
+msgid "Toggle Tabs"
+msgstr "karta položky..."
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:6
+msgid "Add New Tab Post"
+msgstr "Přidat nové záložce příspěvek"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:7
+msgid "Add New Tabs "
+msgstr "Přidat nové karty"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:8
+msgid "Edit Tabs"
+msgstr "Upravit Tabs"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:9
+msgid "New Tabs"
+msgstr "Nové Tabs"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:10
+msgid "View Tabs Item"
+msgstr "Zobrazit Záložky položky"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:11
+msgid "Search Tabs"
+msgstr "Hledat Tabs"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:47
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:57
+msgid "Tabs Categories"
+msgstr "Karty kategorie"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:48
+msgid "Toggle Tabs / Accordion Categories"
+msgstr "Přepnout taby / akordeon kategorie"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:49
+msgid "Search Tabs Categories"
+msgstr "Hledat TABS kategorie"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:50
+msgid "All Tabs Categories"
+msgstr "Všechny kategorie Záložky "
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:51
+msgid "Parent Tabs Category"
+msgstr "Parent Tabs kategorie"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:52
+msgid "Parent Tabs Category:"
+msgstr "Parent Tabs Kategorie:"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:53
+msgid "Edit Tabs Category"
+msgstr "Upravit Tabs kategorie"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:54
+msgid "Update Tabs Category"
+msgstr "Aktualizace Tabs kategorie"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:55
+msgid "Add New Tabs Category"
+msgstr "Přidat nové karty kategorii"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:56
+msgid "New Tabs Category"
+msgstr "New Tabs kategorie"
+
+#: ../lib/functions/custom_posts/toggletabs_accordion.php:68
+msgid "Toggle Tabs Category"
+msgstr "Přepnout Tabs kategorie"
+
+#: ../lib/functions/kaya_comments.php:19
+#, php-format
+msgid "%s <span class=\"says\"></span>"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: ../lib/functions/kaya_comments.php:23
+#: ../lib/functions/kaya_comments.php:124
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:23 ../lib/functions/kaya_comments.php:54
+#: ../lib/functions/kaya_comments.php:124
+#: ../lib/functions/kaya_comments.php:158
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: ../lib/functions/kaya_comments.php:28
+#: ../lib/functions/kaya_comments.php:110
+msgid "Your comment is awaiting moderation."
+msgstr "Váš komentář čeká na moderování."
+
+#: ../lib/functions/kaya_comments.php:38
+msgid "Reply <span>&rarr;</span>"
+msgstr "Váš komentář čeká na moderování...."
+
+#: ../lib/functions/kaya_comments.php:54
+#: ../lib/functions/kaya_comments.php:158
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../lib/functions/kaya_comments.php:75
+msgid "Posted In"
+msgstr "Publikováno v"
+
+#: ../lib/functions/kaya_comments.php:76
+msgid "By "
+msgstr "od"
+
+#: ../lib/functions/kaya_comments.php:77
+msgid "Leave a comment"
+msgstr "Zanechat komentář"
+
+#: ../lib/functions/kaya_comments.php:77
+msgid "1 Comment"
+msgstr "1 komentář"
+
+#: ../lib/functions/kaya_comments.php:77
+msgid "% Comments"
+msgstr "% Komentáře"
+
+#: ../lib/functions/kaya_comments.php:78
+#: ../lib/meta-box/inc/fields/file-advanced.php:101
+#: ../lib/meta-box/inc/fields/file.php:138
+#: ../lib/meta-box/inc/fields/image-advanced.php:107
+#: ../lib/meta-box/inc/fields/image.php:138 ../loop-page.php:93
+#: ../loop-portfolio.php:94
+msgid "Edit"
+msgstr "% Commentsa..."
+
+#: ../lib/functions/kaya_comments.php:104
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:180
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:184
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:188
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:45
+msgid "Theme #1"
+msgstr "Téma # 1"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:46
+msgid "Theme #2"
+msgstr "Téma # 2"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:47
+msgid "Theme #3"
+msgstr "Téma # 3"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:48
+msgid "Theme #4"
+msgstr "Téma # 4"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:49
+msgid "Theme #5"
+msgstr "Téma # 5"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:71
+msgid "jQuery Lightbox For Native Galleries"
+msgstr "jQuery Lightbox pro nativní galerií"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:71
+msgid "jQuery Lightbox"
+msgstr "jQuery Lightbox"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:119
+msgid "jQuery Lightbox For Native Galleries Settings"
+msgstr "jQuery Lightbox pro nativní Galleries Nastavení"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:126
+msgid ""
+"Sorry if you were expecting more, but this is all there is at the moment. "
+"Nothing else to configure really anyway. :)"
+msgstr ""
+"Omlouvám se, pokud jste čekali víc, ale to je všechno, co je v tuto chvíli. "
+"Nic jiného pro konfiguraci opravdu tak. :)"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:130
+msgid "Theme"
+msgstr "téma"
+
+#: ../lib/includes/jquery-lightbox/jquery-lightbox-for-native-galleries.php:146
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: ../lib/includes/kaya-sidebar-generator.php:175
+msgid "Sidebar Generator"
+msgstr "Sidebar Generator"
+
+#: ../lib/includes/kaya-sidebar-generator.php:225
+msgid "No Sidebars defined"
+msgstr "Žádné Postranní sloupečky definováno"
+
+#: ../lib/includes/kaya-sidebar-generator.php:232
+msgid "+ Add New Sidebar"
+msgstr "+ Přidat nový postranní panel"
+
+#: ../lib/includes/kaya-sidebar-generator.php:282
+msgid ""
+"Please select the sidebar you would like to display on this page. "
+"<strong>Note:</strong> You must first create the sidebar under Appearance > "
+"Sidebars."
+msgstr ""
+"Prosím, vyberte postranní panel, který chcete zobrazit na této stránce. "
+"<strong> Poznámka: </ strong>, musíte nejprve vytvořit postranní panel v "
+"části Vzhled> okraje."
+
+#: ../lib/includes/kaya-sidebar-generator.php:292
+msgid "WP Default Sidebar"
+msgstr "WP Výchozí Sidebar"
+
+#: ../lib/includes/kaya-sidebar-generator.php:307
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: ../lib/includes/siteorigen_panel_row_styles.php:5
+msgid "Conatiner row Style-1"
+msgstr "Conatiner řada Style-1"
+
+#: ../lib/includes/siteorigen_panel_row_styles.php:11
+msgid "Conatiner row Style-2"
+msgstr "Conatiner řada Style-2"
+
+#: ../lib/includes/siteorigen_panel_row_styles.php:16
+msgid "Conatiner row Style-3"
+msgstr "Conatiner řádek Style-3"
+
+#: ../lib/includes/siteorigen_panel_row_styles.php:21
+msgid "Conatiner row Style-4"
+msgstr "Conatiner row Style-4"
+
+#: ../lib/includes/siteorigen_panel_row_styles.php:26
+msgid "Conatiner row Style-5"
+msgstr "Conatiner řádek Style-5"
+
+#: ../lib/includes/theme_customization.php:86
+#: ../lib/includes/theme_customization.php:90
+#: ../lib/includes/theme_customization.php:93
+#: ../lib/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr "odstranit"
+
+#: ../lib/includes/theme_customization.php:95
+msgid "Add More"
+msgstr "Přidat další"
+
+#: ../lib/includes/theme_customization.php:108
+msgid "Layout Options"
+msgstr "Přidat další..."
+
+#: ../lib/includes/theme_customization.php:120
+msgid "layout Mode"
+msgstr "Režim rozvržení"
+
+#: ../lib/includes/theme_customization.php:125
+msgid "Fluid"
+msgstr "Fluid"
+
+#: ../lib/includes/theme_customization.php:126 ../lib/meta-boxes.php:143
+msgid "Boxed"
+msgstr "boxed"
+
+#: ../lib/includes/theme_customization.php:137
+msgid "Change Fullscreen Background Defualt Image"
+msgstr "Změna Fullscreen pozadí defualt obrázek"
+
+#: ../lib/includes/theme_customization.php:148
+#: ../lib/includes/theme_customization.php:679
+#: ../lib/includes/theme_customization.php:741
+#: ../lib/includes/theme_customization.php:1399 ../lib/meta-boxes.php:350
+msgid "Background Repeat"
+msgstr "background Repeat"
+
+#: ../lib/includes/theme_customization.php:153
+#: ../lib/includes/theme_customization.php:686
+#: ../lib/includes/theme_customization.php:748
+#: ../lib/includes/theme_customization.php:1406 ../lib/meta-boxes.php:354
+msgid "Repeat"
+msgstr "Opakovat"
+
+#: ../lib/includes/theme_customization.php:154
+#: ../lib/includes/theme_customization.php:685
+#: ../lib/includes/theme_customization.php:747
+#: ../lib/includes/theme_customization.php:1405 ../lib/meta-boxes.php:355
+msgid "No Repeat"
+msgstr "No Repeat"
+
+#: ../lib/includes/theme_customization.php:164
+msgid "Front Page Container Background"
+msgstr "Přední strana Kontejner na pozadí"
+
+#: ../lib/includes/theme_customization.php:169
+#: ../lib/includes/theme_customization.php:185
+msgid "On"
+msgstr "na"
+
+#: ../lib/includes/theme_customization.php:170
+#: ../lib/includes/theme_customization.php:186
+msgid "Off"
+msgstr "Off"
+
+#: ../lib/includes/theme_customization.php:180
+msgid "Responsive Mode"
+msgstr "Citlivé Mode"
+
+#: ../lib/includes/theme_customization.php:199
+msgid "Header Section"
+msgstr "záhlaví sekce"
+
+#: ../lib/includes/theme_customization.php:208
+msgid "Choose Logo Type"
+msgstr "Zvolte Logo Typ"
+
+#: ../lib/includes/theme_customization.php:212
+#: ../lib/includes/theme_customization.php:239
+msgid "Text Logo"
+msgstr "Text Logo"
+
+#: ../lib/includes/theme_customization.php:213
+msgid "Image Logo"
+msgstr "obrázek Logo"
+
+#: ../lib/includes/theme_customization.php:226
+msgid "Upload Logo Image"
+msgstr "Nahrát Logo obrázku"
+
+#: ../lib/includes/theme_customization.php:252
+msgid "Logo Font Size ( px )"
+msgstr "Velikost Logo Písmo (px)"
+
+#: ../lib/includes/theme_customization.php:265
+msgid "Logo Font Color"
+msgstr "Velikost Logo Písmo (px)"
+
+#: ../lib/includes/theme_customization.php:279
+msgid "Enter Google font for Logo"
+msgstr "Zadejte písmo pro Google Logo"
+
+#: ../lib/includes/theme_customization.php:293
+msgid "Logo Margin Bottom ( px )"
+msgstr "Logo Spodní okraj (px)"
+
+#: ../lib/includes/theme_customization.php:304
+msgid "Logo Description"
+msgstr "logo Popis"
+
+#: ../lib/includes/theme_customization.php:314
+msgid ""
+"<strong style=\"font-size:16px; letter-spacing: 2px;\"> Restaurant WordPress "
+"Theme</strong>"
+msgstr ""
+
+#: ../lib/includes/theme_customization.php:324
+msgid "Logo Description Color"
+msgstr "Logo Popis Color"
+
+#: ../lib/includes/theme_customization.php:341
+msgid "Menu Section"
+msgstr "Menu sekce"
+
+#: ../lib/includes/theme_customization.php:350
+msgid "Menu Links Background Color"
+msgstr "Menu Odkazy Barva pozadí"
+
+#: ../lib/includes/theme_customization.php:356
+msgid "Menu Links Border Color"
+msgstr "Menu Odkazy Barva rámečku"
+
+#: ../lib/includes/theme_customization.php:364
+msgid "Menu Links Color"
+msgstr "Menu Odkazy Color"
+
+#: ../lib/includes/theme_customization.php:370
+msgid "Menu Links Icon Color"
+msgstr "Menu Odkazy Ikona Barva"
+
+#: ../lib/includes/theme_customization.php:375
+msgid "Menu Links Hover BG color"
+msgstr "Menu Odkazy Hover BG barvu"
+
+#: ../lib/includes/theme_customization.php:381
+msgid "Menu  Hover BG Links color"
+msgstr "Menu Hover BG odkazy barvy"
+
+#: ../lib/includes/theme_customization.php:387
+msgid "Menu Active BG Color"
+msgstr "Menu Aktivní BG Color"
+
+#: ../lib/includes/theme_customization.php:394
+msgid "Menu Active BG Links Color"
+msgstr "Menu Aktivní BG odkazy Color"
+
+#: ../lib/includes/theme_customization.php:399
+msgid "Child Menu Settings"
+msgstr "Nastavení pro děti Menu"
+
+#: ../lib/includes/theme_customization.php:408
+#: ../lib/includes/theme_customization.php:552
+#: ../lib/includes/theme_customization.php:696
+#: ../lib/includes/theme_customization.php:754
+msgid "Background Color"
+msgstr "Barva pozadí"
+
+#: ../lib/includes/theme_customization.php:414
+msgid "Bottom Border Color"
+msgstr "Spodní Barva rámečku"
+
+#: ../lib/includes/theme_customization.php:420
+msgid "Links Color"
+msgstr "Odkazy Color"
+
+#: ../lib/includes/theme_customization.php:426
+msgid "Hover Background Color"
+msgstr "Hover Barva pozadí"
+
+#: ../lib/includes/theme_customization.php:432
+msgid "Links Hover Color"
+msgstr "Odkazy Hover Color"
+
+#: ../lib/includes/theme_customization.php:438
+msgid "Link Active BG Color"
+msgstr "Odkaz Active BG Color"
+
+#: ../lib/includes/theme_customization.php:444
+msgid "Link Active Color"
+msgstr "Link Active Color"
+
+#: ../lib/includes/theme_customization.php:487
+msgid "Accent Colors"
+msgstr "Accent Colors"
+
+#: ../lib/includes/theme_customization.php:498
+msgid "Accent BG Color"
+msgstr "Accent BG Color"
+
+#: ../lib/includes/theme_customization.php:505
+msgid "Text Color for Accent BG Color"
+msgstr "Text Color Accent BG Color"
+
+#: ../lib/includes/theme_customization.php:542
+msgid "Page Titlebar Settings"
+msgstr "Page titulku Nastavení"
+
+#: ../lib/includes/theme_customization.php:560
+#: ../lib/includes/theme_customization.php:708
+#: ../lib/includes/theme_customization.php:761
+#: ../lib/includes/theme_customization.php:791
+#: ../lib/includes/theme_customization.php:1020
+msgid "Title Color"
+msgstr "Název Barva"
+
+#: ../lib/includes/theme_customization.php:644
+msgid "Page Color Settings"
+msgstr "Page Color Settings"
+
+#: ../lib/includes/theme_customization.php:654
+msgid "Page Title Bar Color Section"
+msgstr "Page Title Bar Color sekce"
+
+#: ../lib/includes/theme_customization.php:667
+#: ../lib/includes/theme_customization.php:729
+msgid "Upload Transparent BG Image"
+msgstr "Přidat Transparentní BG obrázek"
+
+#: ../lib/includes/theme_customization.php:716
+msgid "Page Middle Content Color Section"
+msgstr "Page Střední barevný obsah sekce"
+
+#: ../lib/includes/theme_customization.php:767
+#: ../lib/includes/theme_customization.php:798
+#: ../lib/includes/theme_customization.php:1426
+msgid "Content Color"
+msgstr "obsah Color"
+
+#: ../lib/includes/theme_customization.php:773
+#: ../lib/includes/theme_customization.php:805
+msgid "Link Color"
+msgstr "Barva odkazu"
+
+#: ../lib/includes/theme_customization.php:779
+#: ../lib/includes/theme_customization.php:812
+msgid "Link Hover Color"
+msgstr "Link Hover Color"
+
+#: ../lib/includes/theme_customization.php:785
+msgid "Page Sidebar Color Section"
+msgstr "Page Sidebar Color sekce"
+
+#: ../lib/includes/theme_customization.php:870
+msgid "Foodmenu Slug Name"
+msgstr "Foodmenu Slug Název"
+
+#: ../lib/includes/theme_customization.php:880
+msgid ""
+"Note: Please make sure that the permalinks to be updated by navigating to "
+"\"Settings > Permalinks\" select post and save changes to avoid 404 error "
+"page."
+msgstr ""
+
+#: ../lib/includes/theme_customization.php:894
+msgid "Related Post Thumbnail Height"
+msgstr "Související Post Thumbnail Výška"
+
+#: ../lib/includes/theme_customization.php:903
+msgid "Related Post Title"
+msgstr "Související Název příspěvku"
+
+#: ../lib/includes/theme_customization.php:911
+msgid "Foodmenu Category Settings"
+msgstr "Foodmenu Kategorie Nastavení"
+
+#: ../lib/includes/theme_customization.php:919
+msgid "Note: Use this section when you use \"Foodmenu Categories\" in menu bar"
+msgstr ""
+
+#: ../lib/includes/theme_customization.php:926
+msgid "Category Page Layout"
+msgstr "Layout Kategorie Page"
+
+#: ../lib/includes/theme_customization.php:930
+#: ../lib/includes/theme_customization.php:1049
+#: ../lib/includes/theme_customization.php:1092
+#: ../lib/includes/theme_customization.php:1106
+#: ../lib/includes/theme_customization.php:1120
+msgid "No Sidebar"
+msgstr "Layout Kategorie Page..."
+
+#: ../lib/includes/theme_customization.php:931
+#: ../lib/includes/theme_customization.php:1050
+#: ../lib/includes/theme_customization.php:1093
+#: ../lib/includes/theme_customization.php:1107
+#: ../lib/includes/theme_customization.php:1121
+msgid "Right"
+msgstr "Pravá"
+
+#: ../lib/includes/theme_customization.php:932
+#: ../lib/includes/theme_customization.php:1051
+#: ../lib/includes/theme_customization.php:1094
+#: ../lib/includes/theme_customization.php:1108
+#: ../lib/includes/theme_customization.php:1122
+msgid "Left"
+msgstr "levý"
+
+#: ../lib/includes/theme_customization.php:946
+msgid "Select Columns"
+msgstr "Vyberte sloupce"
+
+#: ../lib/includes/theme_customization.php:949
+msgid "4 Columns"
+msgstr "4 sloupce"
+
+#: ../lib/includes/theme_customization.php:950
+msgid "3 Columns"
+msgstr "3 sloupce"
+
+#: ../lib/includes/theme_customization.php:951
+msgid "2 Columns"
+msgstr "2 sloupce"
+
+#: ../lib/includes/theme_customization.php:960
+msgid "Disable Lightbox Icon"
+msgstr "Zakázat Lightbox Icon"
+
+#: ../lib/includes/theme_customization.php:969
+msgid "Disable Post Link Icon"
+msgstr "Zakázat Post link icon"
+
+#: ../lib/includes/theme_customization.php:979
+msgid "Thumbnail Height"
+msgstr "Náhled Výška"
+
+#: ../lib/includes/theme_customization.php:987
+msgid "Posts Title Settings"
+msgstr "Příspěvky Název Nastavení"
+
+#: ../lib/includes/theme_customization.php:996
+msgid "Enable Posts Title"
+msgstr "Povolit Příspěvky Název"
+
+#: ../lib/includes/theme_customization.php:1008
+msgid "Title Background Color"
+msgstr "Povolit Příspěvky Název..."
+
+#: ../lib/includes/theme_customization.php:1038
+msgid "Blog Page Section"
+msgstr "Název Barva pozadí..."
+
+#: ../lib/includes/theme_customization.php:1045
+msgid "Page Sidebar Settings"
+msgstr "Page postranního panelu Nastavení"
+
+#: ../lib/includes/theme_customization.php:1060
+msgid "Select Category"
+msgstr "Vyberte kategorii"
+
+#: ../lib/includes/theme_customization.php:1070
+msgid "Readmore Button Text"
+msgstr "Readmore Button Text"
+
+#: ../lib/includes/theme_customization.php:1081
+msgid "Woocommerce Page Section"
+msgstr "Woocommerce Page sekce"
+
+#: ../lib/includes/theme_customization.php:1088
+msgid "Shop Page Sidebar"
+msgstr "Obchod strana postranního panelu"
+
+#: ../lib/includes/theme_customization.php:1102
+msgid "Product Categories / Tags  Page Sidebar"
+msgstr "Kategorie zboží / Štítky Page Sidebar"
+
+#: ../lib/includes/theme_customization.php:1116
+msgid "Shop Single Page Sidebar"
+msgstr "Obchod Jedna stránka postranního panelu"
+
+#: ../lib/includes/theme_customization.php:1130
+msgid "Primary Buttons Color Section"
+msgstr "Primární tlačítka Color sekce"
+
+#: ../lib/includes/theme_customization.php:1139
+msgid ""
+"Note: Color applies for Add to cart, Update Cart , mini cart items and  "
+"Apply Coupon buttons"
+msgstr ""
+"Poznámka: barva se aplikuje na Přidat do košíku, aktualizace košíku, mini "
+"košík položek a použít kupón tlačítka"
+
+#: ../lib/includes/theme_customization.php:1150
+msgid "Primary  Buttons BG Color"
+msgstr "Primární Tlačítka BG barev"
+
+#: ../lib/includes/theme_customization.php:1156
+msgid "Primary  Buttons Text Color"
+msgstr "Primární tlačítka Barva textu"
+
+#: ../lib/includes/theme_customization.php:1164
+msgid "Primary  Buttons BG Hover Color"
+msgstr "Primární Tlačítka BG hover barvy"
+
+#: ../lib/includes/theme_customization.php:1171
+msgid "Primary  Buttons Text Hover Color"
+msgstr "Primární Tlačítka Text Hover Color"
+
+#: ../lib/includes/theme_customization.php:1177
+msgid "Secondary Buttons Color Section"
+msgstr "Sekundární tlačítka Color sekce"
+
+#: ../lib/includes/theme_customization.php:1186
+msgid ""
+"Note: Color applies for Tabs active color, tab hover color, quantity(plus, "
+"minus), view Cart, proceed to checkout and place order buttons"
+msgstr ""
+"Poznámka: Barva se vztahuje na Tabs aktivní barvy, karta hover barvy, "
+"množství (plus, mínus), Zobrazit obsah košíku, přejděte k pokladně a místo "
+"pořadí tlačítek"
+
+#: ../lib/includes/theme_customization.php:1197
+msgid "Secondary Buttons BG Color"
+msgstr "Sekundární Tlačítka BG barev"
+
+#: ../lib/includes/theme_customization.php:1203
+msgid "Secondary Buttons Text Color"
+msgstr "Sekundární tlačítka Barva textu"
+
+#: ../lib/includes/theme_customization.php:1211
+msgid "Secondary Buttons BG Hover Color"
+msgstr "Sekundární Tlačítka BG hover barvy"
+
+#: ../lib/includes/theme_customization.php:1218
+msgid "Secondary Buttons Text Hover Color"
+msgstr "Sekundární Tlačítka Text Hover Color"
+
+#: ../lib/includes/theme_customization.php:1226
+msgid "Elements color"
+msgstr "Elements barvy"
+
+#: ../lib/includes/theme_customization.php:1232
+msgid ""
+"Note: color applied for price, onsale tag, star-rating, .quantity .minus / "
+"plus hover and etc..."
+msgstr ""
+"Poznámka: barvy aplikované na cenu, OnSale značku Star-hodnocení, _mnozstvi ."
+"minus / Plus vznášet a atd ..."
+
+#: ../lib/includes/theme_customization.php:1241
+msgid "Alert Boxes Section"
+msgstr "Alert Boxy sekce"
+
+#: ../lib/includes/theme_customization.php:1252
+msgid "Success Alert Box BG Color"
+msgstr "Úspěch Alert Box BG Color"
+
+#: ../lib/includes/theme_customization.php:1259
+msgid "Success Alert Box Text Color"
+msgstr "Úspěch Alert Box Barva textu"
+
+#: ../lib/includes/theme_customization.php:1267
+msgid "Notification Alert Box BG Color"
+msgstr "Oznámení Alert Box BG Color"
+
+#: ../lib/includes/theme_customization.php:1274
+msgid "Notification Alert Box Text Color"
+msgstr "Oznámení Alert Box Barva textu"
+
+#: ../lib/includes/theme_customization.php:1282
+msgid "Warning Alert Box BG Color"
+msgstr "Výstraha Box BG Color"
+
+#: ../lib/includes/theme_customization.php:1289
+msgid "Warning Alert Box Text Color"
+msgstr "Výstraha Box Barva textu"
+
+#: ../lib/includes/theme_customization.php:1324
+msgid "Footer Section"
+msgstr "sekce zápatí"
+
+#: ../lib/includes/theme_customization.php:1388
+msgid "Upload Footer Background Image"
+msgstr "Nahrát zápatí Obrázek na pozadí"
+
+#: ../lib/includes/theme_customization.php:1414
+msgid "Footer Background Color"
+msgstr "Zápatí Barva pozadí"
+
+#: ../lib/includes/theme_customization.php:1420
+msgid "Titles Color"
+msgstr "tituly Color"
+
+#: ../lib/includes/theme_customization.php:1432
+msgid "Hyper Link Color"
+msgstr "Hyper Barva odkazu"
+
+#: ../lib/includes/theme_customization.php:1438
+msgid "Hyper Link Hover Color"
+msgstr "Hyper Link Hover Color"
+
+#: ../lib/includes/theme_customization.php:1445
+msgid "Footer Settings"
+msgstr "zápatí Nastavení"
+
+#: ../lib/includes/theme_customization.php:1452
+msgid "Disable Footer"
+msgstr "Zakázat zápatí"
+
+#: ../lib/includes/theme_customization.php:1464
+msgid "Contact Information"
+msgstr "Kontaktní informace"
+
+#: ../lib/includes/theme_customization.php:1477
+msgid "Copy Rights"
+msgstr "copy Rights"
+
+#: ../lib/includes/theme_customization.php:1493
+msgid "Social Icons"
+msgstr "Sociální ikony"
+
+#: ../lib/includes/theme_customization.php:1546
+msgid "Typography"
+msgstr "typografie"
+
+#: ../lib/includes/theme_customization.php:1549
+msgid "Select Google Fonts"
+msgstr "Vyberte Google písma"
+
+#: ../lib/includes/theme_customization.php:1564
+msgid "Enter Google font for Body"
+msgstr "Zadejte Google písma pro tělo"
+
+#: ../lib/includes/theme_customization.php:1580
+msgid "Enter Google font for Headings"
+msgstr "Zadejte Google písma pro nadpisy"
+
+#: ../lib/includes/theme_customization.php:1596
+msgid "Enter Google font for Top Menu"
+msgstr "Zadejte Google písmo Top nabídky"
+
+#: ../lib/includes/theme_customization.php:1615
+msgid "Body Font Size"
+msgstr "Velikost těla písma"
+
+#: ../lib/includes/theme_customization.php:1632
+msgid "Menu  Font Size"
+msgstr "Nabídka Velikost písma"
+
+#: ../lib/includes/theme_customization.php:1651
+msgid "Font size for heading - H1"
+msgstr "Velikost písma pro nadpis - H1"
+
+#: ../lib/includes/theme_customization.php:1669
+msgid "Font size for heading - H2"
+msgstr "Velikost písma pro nadpis - H2"
+
+#: ../lib/includes/theme_customization.php:1686
+msgid "Font size for heading - H3"
+msgstr "Velikost písma pro nadpis - H3"
+
+#: ../lib/includes/theme_customization.php:1703
+msgid "Font size for heading - H4"
+msgstr "Velikost písma pro nadpis - H4"
+
+#: ../lib/includes/theme_customization.php:1720
+msgid "Font size for heading - H5"
+msgstr "Velikost písma pro nadpis - H5"
+
+#: ../lib/includes/theme_customization.php:1737
+msgid "Font size for heading - H6"
+msgstr "Velikost písma pro nadpis - H6"
+
+#: ../lib/includes/theme_customization.php:1752
+msgid "Global Settings"
+msgstr "Globální nastavení"
+
+#: ../lib/includes/theme_customization.php:1764
+msgid "Upload Favicon Image"
+msgstr "Přidat favicon obrázek"
+
+#: ../lib/includes/theme_customization.php:1773
+msgid "Google Analytics Code"
+msgstr "Google Analytics kód"
+
+#: ../lib/includes/theme_customization.php:1783
+msgid "Custom CSS"
+msgstr "Vlastní CSS"
+
+#: ../lib/includes/theme_customization.php:1793
+msgid "Custom JQUERY"
+msgstr "Vlastní jQuery"
+
+#: ../lib/meta-box/demo/all-custom-post-types.php:20
+msgid "Personal Information"
+msgstr "osobní údaje"
+
+#: ../lib/meta-box/demo/all-custom-post-types.php:25
+msgid "Full name"
+msgstr "Celé jméno"
+
+#: ../lib/meta-box/demo/better-include.php:14
+#: ../lib/meta-box/demo/include-by-ID-or-page-template.php:6
+msgid "Meta Box Title"
+msgstr "Meta Box Title"
+
+#: ../lib/meta-box/demo/better-include.php:17
+#: ../lib/meta-box/demo/include-by-ID-or-page-template.php:12
+msgid "Your images"
+msgstr "Vaše snímky"
+
+#: ../lib/meta-box/demo/date-time-js-options.php:11
+msgid "Date Time Picker With JS Options"
+msgstr "Datum Čas Picker se možnosti JS"
+
+#: ../lib/meta-box/demo/date-time-js-options.php:15
+msgid "Date"
+msgstr "Datum"
+
+#: ../lib/meta-box/demo/date-time-js-options.php:21
+msgid "(yyyy-mm-dd)"
+msgstr "(yyyy-mm-dd)"
+
+#: ../lib/meta-box/demo/date-time-js-options.php:23
+msgid "Select Date"
+msgstr "Select Date"
+
+#: ../lib/meta-box/demo/date-time-js-options.php:24
+msgid "yy-mm-dd"
+msgstr "rr-mm-dd"
+
+#: ../lib/meta-box/demo/date-time-js-options.php:30
+msgid "Datetime"
+msgstr "datetime"
+
+#: ../lib/meta-box/demo/date-time-js-options.php:41
+msgid "Time"
+msgstr "Time"
+
+#: ../lib/meta-box/demo/force-delete.php:11
+msgid "Test Meta Box"
+msgstr "Zkušební Meta Box"
+
+#: ../lib/meta-box/demo/force-delete.php:15
+msgid "File Upload"
+msgstr "Nahrát soubor"
+
+#: ../lib/meta-box/demo/force-delete.php:22
+msgid "Image Upload"
+msgstr "Nahrávání obrázků"
+
+#: ../lib/meta-box/demo/force-delete.php:28
+msgid "Thickbox Image Upload"
+msgstr "Thickbox Nahrávání obrázků"
+
+#: ../lib/meta-box/demo/force-delete.php:35
+msgid "Plupload Image Upload"
+msgstr "Plupload Nahrávání obrázků"
+
+#: ../lib/meta-box/demo/image-select.php:6
+msgid "Image Select Demo"
+msgstr "Obrázek Vybrat Demo"
+
+#: ../lib/meta-box/demo/image-select.php:10
+msgid "Layout"
+msgstr "Layout"
+
+#: ../lib/meta-box/demo/map.php:9
+msgid "Google Map"
+msgstr "Google Map"
+
+#: ../lib/meta-box/demo/map.php:13
+msgid "Address"
+msgstr "adresa"
+
+#: ../lib/meta-box/demo/map.php:15
+msgid "Hanoi, Vietnam"
+msgstr "Hanoi, Vietnam"
+
+#: ../lib/meta-box/demo/map.php:19
+msgid "Location"
+msgstr "Místo"
+
+#: ../lib/meta-box/demo/oembed.php:6
+msgid "oEmbed Demo"
+msgstr "oEmbed Demo"
+
+#: ../lib/meta-box/demo/oembed.php:10
+msgid "oEmbed(s)"
+msgstr "oEmbed (y)"
+
+#: ../lib/meta-box/demo/slider.php:6
+msgid "Slider Demo"
+msgstr "Slider Demo"
+
+#: ../lib/meta-box/demo/slider.php:9 ../lib/meta-boxes.php:520
+msgid "Slider"
+msgstr "Slider"
+
+#: ../lib/meta-box/demo/slider.php:14
+msgid "$"
+msgstr "$"
+
+#: ../lib/meta-box/demo/slider.php:15
+msgid " USD"
+msgstr "USD"
+
+#: ../lib/meta-box/demo/url.php:6
+msgid "URL Demo"
+msgstr "URL Demo"
+
+#: ../lib/meta-box/demo/url.php:10
+msgid "URL(s)"
+msgstr "URL (y)"
+
+#: ../lib/meta-box/inc/field.php:186
+msgid "+"
+msgstr "+"
+
+#: ../lib/meta-box/inc/field.php:203
+msgid "&#8211;"
+msgstr "-"
+
+#: ../lib/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr "Klikněte na mě"
+
+#: ../lib/meta-box/inc/fields/file-advanced.php:23
+#: ../lib/meta-box/inc/fields/plupload-image.php:104
+msgid "Select Files"
+msgstr "Select Files"
+
+#: ../lib/meta-box/inc/fields/file-advanced.php:64
+msgid "Select or Upload Files"
+msgstr "Vyberte nebo Nahrát soubory"
+
+#: ../lib/meta-box/inc/fields/file-advanced.php:100
+#: ../lib/meta-box/inc/fields/file.php:137
+#: ../lib/meta-box/inc/fields/image-advanced.php:106
+#: ../lib/meta-box/inc/fields/image.php:137
+msgid "Delete"
+msgstr "smazat"
+
+#: ../lib/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr "Zvolte Soubor"
+
+#: ../lib/meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr "zvolte"
+
+#: ../lib/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "Můžete nahrát pouze maximální% d soubor"
+
+#: ../lib/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "Můžete nahrát pouze maximálně% d souborů"
+
+#: ../lib/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr "Chyba: Nelze smazat soubor"
+
+#: ../lib/meta-box/inc/fields/file.php:83
+msgid "Upload Files"
+msgstr "Nahrát soubory"
+
+#: ../lib/meta-box/inc/fields/file.php:84
+msgid "+ Add new file"
+msgstr "+ Přidat nový soubor"
+
+#: ../lib/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr "Vyberte snímky"
+
+#: ../lib/meta-box/inc/fields/image-advanced.php:70
+msgid "Select or Upload Images"
+msgstr "Vyberte nebo nahrát obrázky"
+
+#: ../lib/meta-box/inc/fields/image.php:70
+msgid "Upload Images"
+msgstr "nahrát obrázky"
+
+#: ../lib/meta-box/inc/fields/image.php:71
+msgid "+ Add new image"
+msgstr "+ Přidat nový obrázek"
+
+#: ../lib/meta-box/inc/fields/plupload-image.php:102
+msgid "Drop images here"
+msgstr "Zde Drop obrázky"
+
+#: ../lib/meta-box/inc/fields/plupload-image.php:103
+msgid "or"
+msgstr "nebo"
+
+#: ../lib/meta-box/inc/fields/plupload-image.php:179
+msgid "Allowed Image Files"
+msgstr "Povoleno Obrazové soubory"
+
+#: ../lib/meta-box/inc/fields/thickbox-image.php:35
+msgid "Upload images"
+msgstr "upload images"
+
+#: ../lib/meta-box/inc/meta-box.php:241
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Opravte prosím chyby zvýrazněné níže a zkuste to znovu."
+
+#: ../lib/meta-boxes.php:61
+msgid "Sub header section which displays below menu bar"
+msgstr "Dílčí část záhlaví, které se zobrazí pod liště menu"
+
+#: ../lib/meta-boxes.php:69
+msgid "Select Subheader Style"
+msgstr "Vyberte podnadpisu styl"
+
+#: ../lib/meta-boxes.php:73
+msgid "Page Titlebar"
+msgstr "Page Titlebar"
+
+#: ../lib/meta-boxes.php:74
+msgid "Header Slider"
+msgstr "Header Slider"
+
+#: ../lib/meta-boxes.php:75
+msgid "Parallax Header Image"
+msgstr "Parallax Header Image"
+
+#: ../lib/meta-boxes.php:76 ../lib/meta-boxes.php:376
+msgid "None"
+msgstr "žádný"
+
+#: ../lib/meta-boxes.php:83
+msgid "Custom Page Title"
+msgstr "Custom Page Title"
+
+#: ../lib/meta-boxes.php:90
+msgid "Page Title Description"
+msgstr "Titulek stránky Popis"
+
+#: ../lib/meta-boxes.php:99
+msgid "Page Title & Description Alignment"
+msgstr "Název stránky a popis Alignment"
+
+#: ../lib/meta-boxes.php:103 ../lib/meta-boxes.php:562
+msgid "Align Left"
+msgstr "zarovnat vlevo"
+
+#: ../lib/meta-boxes.php:104 ../lib/meta-boxes.php:563
+msgid "Align Right"
+msgstr "Srovnejte Právo"
+
+#: ../lib/meta-boxes.php:105
+msgid "Align Center"
+msgstr "Zarovnat na střed"
+
+#: ../lib/meta-boxes.php:113
+msgid "Select Header Slider Type"
+msgstr "Vyberte Header Slider typ"
+
+#: ../lib/meta-boxes.php:117
+msgid "BX Slider"
+msgstr "BX Slider"
+
+#: ../lib/meta-boxes.php:118
+msgid "Slider Plugin Shortcode "
+msgstr "Slider Plugin zkrácený"
+
+#: ../lib/meta-boxes.php:128
+msgid "Select Kaya Slider Category"
+msgstr "Vyberte Kaya Slider kategorii"
+
+#: ../lib/meta-boxes.php:138
+msgid "Select Slider Mode"
+msgstr "Zvolte režim Slider"
+
+#: ../lib/meta-boxes.php:142
+msgid "Full Width"
+msgstr "Plná šířka"
+
+#: ../lib/meta-boxes.php:151 ../lib/meta-boxes.php:387
+msgid "Auto Play"
+msgstr "Auto Play"
+
+#: ../lib/meta-boxes.php:155 ../lib/meta-boxes.php:195
+#: ../lib/meta-boxes.php:391
+msgid "True"
+msgstr "pravda"
+
+#: ../lib/meta-boxes.php:156 ../lib/meta-boxes.php:196
+#: ../lib/meta-boxes.php:392
+msgid "False"
+msgstr "False"
+
+#: ../lib/meta-boxes.php:163
+msgid "Slide Transition"
+msgstr "slide Transition"
+
+#: ../lib/meta-boxes.php:167
+msgid "Horizontal"
+msgstr "Horizontální"
+
+#: ../lib/meta-boxes.php:168
+msgid "Vertical"
+msgstr "Vertikální"
+
+#: ../lib/meta-boxes.php:169 ../lib/meta-boxes.php:377
+msgid "Fade"
+msgstr "Fade"
+
+#: ../lib/meta-boxes.php:176
+msgid "Slide Easing Effect"
+msgstr "Slide Usnadnění Effect"
+
+#: ../lib/meta-boxes.php:180
+msgid "Enter easing effect Ex:linear, swing,easeOutElastic"
+msgstr "Zadejte uvolnění efekt Ex: lineární, houpačka, easeOutElastic"
+
+#: ../lib/meta-boxes.php:180
+msgid " for more transition effects "
+msgstr "pro více přechodových efektů"
+
+#: ../lib/meta-boxes.php:183
+msgid "Slide Pause Time"
+msgstr "Slide Pause Time"
+
+#: ../lib/meta-boxes.php:187
+msgid "The amount of time (in ms) between each auto transition"
+msgstr "Množství času (v ms) mezi automatickým přechodem"
+
+#: ../lib/meta-boxes.php:187
+msgid "Ex: 4000"
+msgstr "Ex: 4000"
+
+#: ../lib/meta-boxes.php:191
+msgid " Auto Height"
+msgstr "Auto Výška"
+
+#: ../lib/meta-boxes.php:211
+msgid "Slider Items Order"
+msgstr "Slider Items Order"
+
+#: ../lib/meta-boxes.php:215
+msgid "Decending Order"
+msgstr "zostupne Objednat"
+
+#: ../lib/meta-boxes.php:216
+msgid "Ascending Order"
+msgstr "vzestupně"
+
+#: ../lib/meta-boxes.php:223
+msgid "Slider Items Limit"
+msgstr "Posuvník položky Limit"
+
+#: ../lib/meta-boxes.php:243
+msgid "Slider Shortcode"
+msgstr "Slider zkrácený"
+
+#: ../lib/meta-boxes.php:246
+msgid "Ex: [customslider shortcode_name]"
+msgstr "Ex: [customslider shortcode_name]"
+
+#: ../lib/meta-boxes.php:250
+msgid "Parallax Bg Image"
+msgstr "Parallax Bg obrázku"
+
+#: ../lib/meta-boxes.php:251
+msgid "Select image and click"
+msgstr "Vyberte obrázek a klepněte na tlačítko"
+
+#: ../lib/meta-boxes.php:251
+msgid "Insert into page"
+msgstr "Vložit do stránky"
+
+#: ../lib/meta-boxes.php:256
+msgid "Background Position "
+msgstr "background Position"
+
+#: ../lib/meta-boxes.php:260
+msgid "Fixed"
+msgstr "Pevná"
+
+#: ../lib/meta-boxes.php:261
+msgid "Scroll"
+msgstr "Scroll"
+
+#: ../lib/meta-boxes.php:266
+msgid "Image Height ( px )"
+msgstr "Obrázek Výška (px)Image Height ( px )"
+
+#: ../lib/meta-boxes.php:267
+msgid "By default Screen height is displayed"
+msgstr "Ve výchozím nastavení se zobrazí výška obrazovky"
+
+#: ../lib/meta-boxes.php:273
+msgid "Image Overlay Text "
+msgstr "Obrázek Overlay Text"
+
+#: ../lib/meta-boxes.php:274
+msgid "Enter content like below html format"
+msgstr "Zadejte obsahu, jako je níže formátu html"
+
+#: ../lib/meta-boxes.php:323
+msgid "Full screen Background Settings"
+msgstr "Nastavení pozadí Celá obrazovkaFull screen Background Settings"
+
+#: ../lib/meta-boxes.php:329
+msgid "Select Full Screen Bg Type"
+msgstr "Vyberte Celá obrazovka Bg Typ"
+
+#: ../lib/meta-boxes.php:333
+msgid "Single Image"
+msgstr "Jeden snímek"
+
+#: ../lib/meta-boxes.php:334
+msgid "Image Slider"
+msgstr "obrázek Slider"
+
+#: ../lib/meta-boxes.php:335
+msgid "Video Background"
+msgstr "Video na pozadí"
+
+#: ../lib/meta-boxes.php:343
+msgid "Upload Image"
+msgstr "Nahrát obrázek"
+
+#: ../lib/meta-boxes.php:356
+msgid "Fit Screen size"
+msgstr "Fit Velikost obrazovky"
+
+#: ../lib/meta-boxes.php:363
+msgid "Full Screen Slider Images"
+msgstr "Celá obrazovka Slider Obrázky"
+
+#: ../lib/meta-boxes.php:364
+msgid "These images are displayed as Full screen Background slider."
+msgstr "Celá obrazovka Slider Obrázky"
+
+#: ../lib/meta-boxes.php:370
+msgid "Full Screen Bg Slide Transition"
+msgstr "Full Screen Bg Slide Transition"
+
+#: ../lib/meta-boxes.php:378
+msgid "Slide Top"
+msgstr "Slide Top"
+
+#: ../lib/meta-boxes.php:379
+msgid "Slide Right"
+msgstr "Slide Právo"
+
+#: ../lib/meta-boxes.php:380
+msgid "Slide Bottom"
+msgstr "slide Bottom"
+
+#: ../lib/meta-boxes.php:381
+msgid "Slide Left"
+msgstr "Posunutím doleva"
+
+#: ../lib/meta-boxes.php:382
+msgid "Carousel Right"
+msgstr "Carousel Right"
+
+#: ../lib/meta-boxes.php:383
+msgid "Carousel Left"
+msgstr "Carousel Left"
+
+#: ../lib/meta-boxes.php:400
+msgid "You Tube Video ID"
+msgstr "You Tube Video ID"
+
+#: ../lib/meta-boxes.php:404
+msgid "<strong>Note : </strong> It works  youtube video id only"
+msgstr ""
+
+#: ../lib/meta-boxes.php:407
+msgid "Fullscreen Background Pattern"
+msgstr "Fullscreen Background Pattern"
+
+#: ../lib/meta-boxes.php:422
+msgid "Food Menu Item Price"
+msgstr "Jídelní lístek zboží Cena"
+
+#: ../lib/meta-boxes.php:428 ../woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr "Cena"
+
+#: ../lib/meta-boxes.php:443
+msgid "General Options"
+msgstr "Obecné možnosti"
+
+#: ../lib/meta-boxes.php:448
+msgid "Custom Title for this post"
+msgstr "Vlastní název pro tento příspěvek"
+
+#: ../lib/meta-boxes.php:456
+msgid "External link to"
+msgstr "Externí odkaz"
+
+#: ../lib/meta-boxes.php:463 ../lib/meta-boxes.php:801
+msgid "Open In New Window"
+msgstr "Otevřít v novém okně"
+
+#: ../lib/meta-boxes.php:470
+msgid "Related Posts"
+msgstr "Související příspěvky"
+
+#: ../lib/meta-boxes.php:474
+msgid "Display Related posts at the bottom of this post in single page"
+msgstr ""
+"Zobrazit Související příspěvky ve spodní části tohoto příspěvku v jedné "
+"stránce"
+
+#: ../lib/meta-boxes.php:474
+msgid "Related post displays based on tags"
+msgstr "Související příspěvek zobrazí na bázi tagů"
+
+#: ../lib/meta-boxes.php:484
+msgid "Light Box Video Url"
+msgstr "Light Box Video Url"
+
+#: ../lib/meta-boxes.php:493
+msgid "Note: It support only for youtube & vimeo videos"
+msgstr "Poznámka: Je to podpora pouze pro youtube a Vimeo videa"
+
+#: ../lib/meta-boxes.php:503
+msgid "Single Post Images / Videos"
+msgstr "Téma Obrázky / Videa"
+
+#: ../lib/meta-boxes.php:509
+msgid "Post Slides"
+msgstr "příspěvek Skluzavky"
+
+#: ../lib/meta-boxes.php:516
+msgid "Images Display Format"
+msgstr "Obrázky Formát zobrazení"
+
+#: ../lib/meta-boxes.php:521
+msgid "Gallery"
+msgstr "Galerie"
+
+#: ../lib/meta-boxes.php:549
+msgid "Video Embed Code"
+msgstr "Video Embed Code"
+
+#: ../lib/meta-boxes.php:555
+msgid "Alignment"
+msgstr "zarovnání"
+
+#: ../lib/meta-boxes.php:561
+msgid "Fullwidth"
+msgstr "Tučný"
+
+#: ../lib/meta-boxes.php:641
+msgid "Video"
+msgstr "Video"
+
+#: ../lib/meta-boxes.php:647
+msgid "Add Iframe Video"
+msgstr "Přidat iFrame video"
+
+#: ../lib/meta-boxes.php:659
+msgid "Blog Post Image Settings"
+msgstr "Blog Odeslat Nastavení"
+
+#: ../lib/meta-boxes.php:666
+msgid "Disable Featured Image Stretch"
+msgstr "Zakázat Doporučené obrázek Stretch"
+
+#: ../lib/meta-boxes.php:680
+msgid "Gallery Format"
+msgstr "Galerie formát"
+
+#: ../lib/meta-boxes.php:686
+msgid "Post Format Gallery"
+msgstr "Příspěvek Formát Galerie"
+
+#: ../lib/meta-boxes.php:687
+msgid ""
+"These images are displayed in Post single page, Upload up to 500 project "
+"images for a slideshow"
+msgstr ""
+"Tyto obrázky jsou zobrazeny v Post jednu stránku, Upload až 500 obrázků "
+"projektu pro prezentaci"
+
+#: ../lib/meta-boxes.php:694
+msgid "Gallery Slider"
+msgstr "Galerie Slider"
+
+#: ../lib/meta-boxes.php:707
+msgid "Quote Format"
+msgstr "Citace formát"
+
+#: ../lib/meta-boxes.php:713
+msgid "Quote"
+msgstr "Citace"
+
+#: ../lib/meta-boxes.php:726
+msgid "Audio Format"
+msgstr "Audio formát"
+
+#: ../lib/meta-boxes.php:732
+msgid "Audio Embed"
+msgstr "Audio Embed"
+
+#: ../lib/meta-boxes.php:746
+msgid "Link Format"
+msgstr "Link formát"
+
+#: ../lib/meta-boxes.php:752 ../lib/meta-boxes.php:837
+msgid "Link"
+msgstr "Link"
+
+#: ../lib/meta-boxes.php:767
+msgid "Slider Settings"
+msgstr "Posuvník Nastavení"
+
+#: ../lib/meta-boxes.php:772
+msgid "Slide Title Description"
+msgstr "Slide Název Popis"
+
+#: ../lib/meta-boxes.php:780
+msgid "Slide Text Color"
+msgstr "Slide Barva textu"
+
+#: ../lib/meta-boxes.php:787
+msgid "Disable Slide Title/Description"
+msgstr "Zakázat Slide Název / Popis"
+
+#: ../lib/meta-boxes.php:794
+msgid "Slide link"
+msgstr "slide odkaz"
+
+#: ../lib/meta-boxes.php:817
+msgid "Testimonial Settings"
+msgstr "Atest Nastavení"
+
+#: ../lib/meta-boxes.php:822
+msgid "Description"
+msgstr "Popis"
+
+#: ../lib/meta-boxes.php:830
+msgid "Designation"
+msgstr "Označení"
+
+#: ../lib/plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "Něco se pokazilo."
+
+#: ../lib/plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr "Zpět na palubní desku"
+
+#: ../lib/plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr "Následující plugin byl úspěšně aktivovány:"
+
+#: ../lib/plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../lib/plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr "Zamítnout toto oznámení"
+
+#: ../lib/plugin-activation.php:534 ../lib/plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr "Zpět na Dashboard"
+
+#: ../lib/plugin-activation.php:1169
+msgid "Private Repository"
+msgstr "Private úložiště"
+
+#: ../lib/plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr "Pre-Balíčkové"
+
+#: ../lib/plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: ../lib/plugin-activation.php:1180
+msgid "Required"
+msgstr "Požadované"
+
+#: ../lib/plugin-activation.php:1180
+msgid "Recommended"
+msgstr "Doporučené"
+
+#: ../lib/plugin-activation.php:1183
+msgid "Not Installed"
+msgstr "není nainstalován"
+
+#: ../lib/plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr "Nainstalován, ale není aktivován"
+
+#: ../lib/plugin-activation.php:1290 ../lib/plugin-activation.php:1398
+msgid "Install"
+msgstr "Instalovat"
+
+#: ../lib/plugin-activation.php:1312 ../lib/plugin-activation.php:1399
+msgid "Activate"
+msgstr "Aktivace"
+
+#: ../lib/plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Žádné pluginy nainstalovat nebo aktivovat. <a href=\"%1$s\" title=\"Return "
+"na Dashboard\"> Zpět na Dashboard </a>"
+
+#: ../lib/plugin-activation.php:1377
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../lib/plugin-activation.php:1378
+msgid "Source"
+msgstr "zdroj"
+
+#: ../lib/plugin-activation.php:1379
+msgid "Type"
+msgstr "Typ"
+
+#: ../lib/plugin-activation.php:1380
+msgid "Status"
+msgstr "Status"
+
+#: ../lib/plugin-activation.php:1928
+msgid "Install package not available."
+msgstr "Nainstalujte balíček není k dispozici."
+
+#: ../lib/plugin-activation.php:1929
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../lib/plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr "Vybalení balíček ..."
+
+#: ../lib/plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr "Instalace plugin ..."
+
+#: ../lib/plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr "Plugin instalace se nezdařila."
+
+#: ../lib/plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr "Plugin úspěšně nainstalován."
+
+#: ../lib/plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr "Plugin aktivace se nezdařila."
+
+#: ../lib/plugin-activation.php:2058
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Proces instalace a aktivace začíná. Tento proces může trvat v některých "
+"hostitelů, takže prosím buďte trpěliví."
+
+#: ../lib/plugin-activation.php:2059
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../lib/plugin-activation.php:2059 ../lib/plugin-activation.php:2068
+msgid "Show Details"
+msgstr "Ukázat podrobnosti"
+
+#: ../lib/plugin-activation.php:2059 ../lib/plugin-activation.php:2068
+msgid "Hide Details"
+msgstr "skrýt detaily"
+
+#: ../lib/plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr "Všechny instalace a aktivace byly dokončeny."
+
+#: ../lib/plugin-activation.php:2061
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2065
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Instalační proces začíná. Tento proces může trvat v některých hostitelů, "
+"takže prosím buďte trpěliví."
+
+#: ../lib/plugin-activation.php:2066
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../lib/plugin-activation.php:2067
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../lib/plugin-activation.php:2068
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../lib/plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr "Všechny instalace byly dokončeny."
+
+#: ../lib/plugin-activation.php:2070
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../loop-portfolio.php:93 ../single.php:114
+msgid "Pages:"
+msgstr "stránky:"
+
+#: ../loop.php:34
+msgid "0"
+msgstr "0"
+
+#: ../loop.php:34
+msgid "1"
+msgstr "1"
+
+#: ../loop.php:34
+msgid "%"
+msgstr "%"
+
+#: ../search.php:25
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Omlouváme se, ale nic uzavřeno zadaným kritériím. Zkuste to prosím znovu s "
+"některými různá klíčová slova."
+
+#: ../searchform.php:2
+msgid "Search here..."
+msgstr "Hledat zde ..."
+
+#: ../single.php:124
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:16
+msgid "Your cart is currently empty."
+msgstr "Váš nákupní košík je prázdný."
+
+#: ../woocommerce/cart/cart-empty.php:20
+msgid "Return To Shop"
+msgstr "Zpět nakupovat"
+
+#: ../woocommerce/cart/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr "Přepravní #% d"
+
+#: ../woocommerce/cart/cart-shipping.php:18
+msgid "Shipping and Handling"
+msgstr "Dopravné a balné"
+
+#: ../woocommerce/cart/cart-shipping.php:55
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+"Pro zobrazení dostupných způsobů přepravy Využijte kalkulačku pro přepravu."
+
+#: ../woocommerce/cart/cart-shipping.php:59
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+"Pokračujte, prosím, na pokladně a zadejte úplnou adresu, jestli tam jsou "
+"nějaké k dispozici způsobů přepravy."
+
+#: ../woocommerce/cart/cart-shipping.php:63
+msgid "Please fill in your details to see available shipping methods."
+msgstr "Pro zobrazení dostupných způsobů přepravy, vyplňte prosím své údaje."
+
+#: ../woocommerce/cart/cart-shipping.php:72
+#: ../woocommerce/cart/cart-shipping.php:78
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr ""
+"Tam neprobíhá lsquo, t Zdá se, že veškeré dostupné způsobů přepravy. "
+"Důkladně zkontrolujte adresu nebo nás kontaktujte, pokud budete potřebovat "
+"pomoc."
+
+#: ../woocommerce/cart/cart-shipping.php:93
+msgid "Shipping"
+msgstr "doprava"
+
+#: ../woocommerce/cart/cart-totals.php:16
+msgid "Cart Totals"
+msgstr "Košík Součty"
+
+#: ../woocommerce/cart/cart-totals.php:21
+msgid "Cart Subtotal"
+msgstr "košík Mezisoučet"
+
+#: ../woocommerce/cart/cart-totals.php:75
+msgid "Order Total"
+msgstr "objednávka celkem"
+
+#: ../woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr "(daně odhadovaný% s)"
+
+#: ../woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"Poznámka: Doprava a daně jsou odhadovány% s a budou aktualizovány v průběhu "
+"pokladny založený na účtování a Expediční informace."
+
+#: ../woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr "produkt"
+
+#: ../woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr "Množství"
+
+#: ../woocommerce/cart/cart.php:30
+msgid "Total"
+msgstr "Celkem"
+
+#: ../woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr "Odstranit tuto položku"
+
+#: ../woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr "K dispozici na externím skladě"
+
+#: ../woocommerce/cart/cart.php:119
+msgid "Coupon"
+msgstr "kupón"
+
+#: ../woocommerce/cart/cart.php:119
+msgid "Coupon code"
+msgstr "kupón kód"
+
+#: ../woocommerce/cart/cart.php:119
+msgid "Apply Coupon"
+msgstr "Použít kupón"
+
+#: ../woocommerce/cart/cart.php:126
+msgid "Update Cart"
+msgstr "Aktualizovat košík"
+
+#: ../woocommerce/cart/cart.php:126
+msgid "Proceed to Checkout"
+msgstr "Pokračujte k pokladně"
+
+#: ../woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr "Možná vás bude zajímat v & hellip;"
+
+#: ../woocommerce/cart/mini-cart.php:52
+msgid "No products in the cart."
+msgstr "Žádné produkty v košíku."
+
+#: ../woocommerce/cart/mini-cart.php:60
+msgid "Subtotal"
+msgstr "Mezisoučet"
+
+#: ../woocommerce/cart/mini-cart.php:65
+msgid "View Cart"
+msgstr "Zobrazit obsah košíku"
+
+#: ../woocommerce/cart/mini-cart.php:66
+msgid "Checkout"
+msgstr "Pokladna"
+
+#: ../woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr "Spočítejte Doprava"
+
+#: ../woocommerce/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr "Zvolte zemi & hellip;"
+
+#: ../woocommerce/cart/shipping-calculator.php:45
+#: ../woocommerce/cart/shipping-calculator.php:51
+#: ../woocommerce/cart/shipping-calculator.php:63
+msgid "State / county"
+msgstr "Stát / kraj"
+
+#: ../woocommerce/cart/shipping-calculator.php:52
+msgid "Select a state&hellip;"
+msgstr "Vyberte stát & hellip;"
+
+#: ../woocommerce/cart/shipping-calculator.php:72
+msgid "City"
+msgstr "Město"
+
+#: ../woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr "PSČ / Zip"
+
+#: ../woocommerce/cart/shipping-calculator.php:85
+msgid "Update Totals"
+msgstr "aktualizace Součty"
+
+#: ../woocommerce/loop/sale-flash.php:16
+#: ../woocommerce/single-product/product-image.php:17
+msgid "Sale!"
+msgstr "Sleva!"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr "Vyberte si jednu z možností"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr "Zrušit výběr"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:103
+msgid "This product is currently out of stock and unavailable."
+msgstr "Tento produkt je v současné době vyprodán a není k dispozici."
+
+#: ../woocommerce/single-product/related.php:48
+msgid "Related Products"
+msgstr "Související produkty"
+
+#: ../woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr "Další informace"
+
+#: ../woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr "Popis produktu"
+
+#: ../woocommerce/single-product/up-sells.php:52
+msgid "You may also like&hellip;"
+msgstr "Může se Vám líbit & hellip;"
+
+#~ msgid "Slider Height (px)<br><small>Ex:400-600</small>"
+#~ msgstr "Posuvník Výška (px) <br> <small> Ex: 400-600 </ small>"
