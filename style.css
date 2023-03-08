@@ -2,14 +2,10 @@
 Theme Name: Pizzarella's
 Theme 
 Description: 
-Version: 1.5.1
+Version: 2.0.0
 Author: Ugyen Chheda Lama
 */
 
-/* ________________________________________________________________________________________________________________
-
-	other css files inport
-   ________________________________________________________________________________________________________________ */  
 	@import url('css/layout.css');
 	@import url('css/typography.css');
 	@import url('css/blog_style.css');
